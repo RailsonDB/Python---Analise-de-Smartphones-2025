@@ -1,0 +1,1001 @@
+brand;model;price_usd;ram_gb;storage_gb;camera_mp;battery_mah;display_size_inch;charging_watt;5g_support;os;processor;rating;release_month;year
+Oppo;A98 111;855;16;128;108;6000;6.6;33;Yes;Android;Helio G99;3.8;February;2025
+Realme;11 Pro+ 843;618;6;128;64;4500;6.9;100;Yes;Android;Tensor G4;4.4;August;2025
+Xiaomi;Redmi Note 14 Pro 461;258;16;64;64;4000;6.8;44;Yes;Android;A18 Pro;4.1;March;2025
+Vivo;V29e 744;837;6;512;48;4500;6;65;Yes;Android;Exynos 2400;4.1;August;2025
+Apple;iPhone 16 Pro Max 927;335;12;128;200;5000;6.9;100;Yes;iOS;Dimensity 9300;3.5;February;2025
+OnePlus;Nord 4 295;938;16;512;200;5000;6.2;120;No;Android;Exynos 2400;3.7;May;2025
+Infinix;GT 20 Pro 112;418;12;256;64;6000;6.9;44;No;Android;Exynos 2400;4.1;April;2025
+Apple;iPhone 16 Pro Max 232;1447;16;64;64;4500;6.7;33;Yes;iOS;Exynos 2400;4.7;November;2025
+Infinix;Hot 40 111;1354;6;1024;12;5500;5.7;18;Yes;Android;Tensor G4;4;July;2025
+Realme;GT 7 Pro 668;311;8;1024;50;5500;6.9;44;Yes;Android;Snapdragon 6 Gen 1;4.4;March;2025
+Samsung;Galaxy Z Fold6 423;1093;8;1024;200;4000;5.6;100;Yes;Android;Snapdragon 8 Gen 3;4.1;April;2025
+Apple;iPhone 14 397;1077;8;128;48;6000;7.1;120;No;iOS;Snapdragon 8 Gen 3;4.4;August;2025
+Vivo;V30 400;223;8;512;200;5500;6.3;18;Yes;Android;Helio G99;4.9;December;2025
+Realme;Narzo 70 620;1192;12;256;12;4000;6.2;33;No;Android;Snapdragon 8 Gen 3;4.7;October;2025
+Xiaomi;Poco F6 497;1126;8;64;48;4000;7.2;33;Yes;Android;Exynos 2400;4.7;July;2025
+Xiaomi;Poco X6 Pro 400;277;6;256;108;4500;7.1;18;No;Android;Helio G99;4;May;2025
+Infinix;Hot 40 658;1467;6;128;48;6000;6.3;18;No;Android;Snapdragon 6 Gen 1;3.8;March;2025
+Samsung;Galaxy Z Fold6 163;1339;6;512;200;4500;6.2;120;Yes;Android;Snapdragon 7+ Gen 2;4.7;May;2025
+OnePlus;Nord CE 4 Lite 503;642;8;256;200;5500;7.1;33;No;Android;Exynos 2400;4.2;April;2025
+OnePlus;OnePlus 12 729;127;16;256;200;5500;5.7;44;Yes;Android;Snapdragon 7+ Gen 2;5;January;2025
+Samsung;Galaxy Z Fold6 195;1247;6;1024;12;5000;5.6;65;No;Android;Helio G99;3.8;January;2025
+Google;Pixel 9 Pro 845;1392;8;128;108;4500;7.1;44;Yes;Android;Tensor G4;3.8;October;2025
+Apple;iPhone 14 328;868;4;512;12;4500;7.2;44;No;iOS;Snapdragon 6 Gen 1;4.6;December;2025
+Realme;GT Neo 6 18;1404;16;1024;50;4000;6.6;100;Yes;Android;Tensor G4;4.7;April;2025
+Google;Pixel 7a 954;1074;16;64;12;5500;6;100;No;Android;Exynos 2400;4;June;2025
+Samsung;Galaxy S24 662;238;16;1024;108;5000;6.1;33;No;Android;Snapdragon 8 Gen 3;5;November;2025
+Infinix;Note 40 Pro 925;882;4;128;200;4000;6.6;44;Yes;Android;Exynos 2400;4.1;April;2025
+Infinix;Hot 40 967;136;4;64;48;5000;5.6;65;Yes;Android;Snapdragon 7+ Gen 2;4.6;June;2025
+Realme;GT 7 Pro 119;627;8;512;50;6000;6.3;44;Yes;Android;Tensor G4;4.6;March;2025
+Vivo;X100 Pro 546;412;4;512;200;4500;6.3;44;No;Android;Tensor G4;3.9;April;2025
+Samsung;Galaxy M55 471;1288;6;256;108;6000;6.8;18;Yes;Android;Tensor G4;3.9;January;2025
+Vivo;Y100A 290;1387;6;1024;108;4000;6.5;65;No;Android;Snapdragon 6 Gen 1;4.9;January;2025
+Xiaomi;Poco F6 169;657;4;512;50;4000;7.2;33;No;Android;Snapdragon 8 Gen 3;4.7;October;2025
+Apple;iPhone 14 43;1058;4;256;50;4500;6.6;33;No;iOS;Snapdragon 8 Gen 3;4.4;June;2025
+Infinix;GT 20 Pro 383;192;4;64;12;5500;5.7;33;No;Android;Snapdragon 7+ Gen 2;3.7;September;2025
+Oppo;Reno 11 961;1451;6;128;200;5500;6.9;120;Yes;Android;Tensor G4;4.2;September;2025
+Infinix;Zero 30 940;1032;4;512;200;5000;5.9;100;No;Android;Tensor G4;4.8;June;2025
+Google;Pixel 8 757;290;12;128;12;5500;6.1;65;No;Android;Snapdragon 7+ Gen 2;3.7;June;2025
+Samsung;Galaxy Z Fold6 721;1403;12;256;64;4500;5.8;100;No;Android;Snapdragon 8 Gen 3;4.4;January;2025
+Apple;iPhone 16 Pro Max 362;528;4;512;50;5500;7.2;120;No;iOS;Snapdragon 8 Gen 3;4.6;January;2025
+Samsung;Galaxy Z Fold6 609;1084;6;128;50;6000;6.6;65;No;Android;Snapdragon 6 Gen 1;5;October;2025
+Google;Pixel 9 879;1190;4;256;12;6000;6.1;18;Yes;Android;Helio G99;4.3;October;2025
+Samsung;Galaxy A75 850;176;4;128;48;4500;5.8;18;No;Android;Tensor G4;4.9;March;2025
+Realme;C65 386;361;6;256;108;4000;6.1;33;No;Android;Snapdragon 8 Gen 3;4.5;November;2025
+Samsung;Galaxy A75 912;1252;8;64;50;4000;6.9;18;Yes;Android;Tensor G4;4.2;March;2025
+Google;Pixel 9 Pro 577;1480;16;256;64;6000;6.5;44;No;Android;Snapdragon 7+ Gen 2;3.7;June;2025
+OnePlus;OnePlus 13 933;1060;12;1024;12;4500;6.4;65;No;Android;Tensor G4;4.8;October;2025
+OnePlus;OnePlus 13 787;1497;12;256;64;4000;5.7;18;Yes;Android;Exynos 2400;3.6;April;2025
+Google;Pixel Fold 2 474;187;4;1024;200;4000;6.6;100;Yes;Android;Helio G99;4.8;July;2025
+Infinix;Smart 8 176;1286;16;64;48;5000;6;18;No;Android;Dimensity 9300;3.6;September;2025
+Vivo;X100 Pro 110;467;16;1024;48;4500;5.7;33;No;Android;Helio G99;3.8;February;2025
+OnePlus;OnePlus 13R 9;817;16;128;50;4000;5.5;44;Yes;Android;A18 Pro;4.5;July;2025
+Xiaomi;Redmi Note 14 Pro 928;1408;12;512;64;6000;6.9;18;No;Android;Exynos 2400;3.8;November;2025
+Xiaomi;Mi 13 Ultra 846;1332;16;1024;108;5500;5.9;33;Yes;Android;Snapdragon 7+ Gen 2;4.1;February;2025
+Realme;C65 954;417;6;512;50;6000;6.9;120;Yes;Android;Exynos 2400;3.6;March;2025
+Samsung;Galaxy M55 286;568;4;64;12;5500;6.7;120;No;Android;A18 Pro;4.6;September;2025
+Google;Pixel 9 470;1020;6;128;48;4000;6;18;No;Android;Tensor G4;4.4;December;2025
+Xiaomi;Mi 14 324;1194;4;512;50;4500;6.9;120;Yes;Android;Snapdragon 7+ Gen 2;4.6;April;2025
+Google;Pixel 9 567;1119;12;1024;108;5000;6.1;18;No;Android;A18 Pro;3.8;August;2025
+Realme;GT 7 Pro 133;101;12;1024;50;5000;5.6;18;No;Android;Helio G99;4;November;2025
+Xiaomi;Redmi Note 14 Pro 603;241;16;512;48;5500;6.5;100;No;Android;Snapdragon 6 Gen 1;4.4;November;2025
+Samsung;Galaxy S24 506;979;8;512;200;5500;6.6;65;No;Android;Snapdragon 6 Gen 1;4.1;December;2025
+OnePlus;OnePlus 13 212;848;12;1024;200;5500;5.8;44;Yes;Android;Helio G99;4;March;2025
+Google;Pixel 9 Pro 620;892;4;1024;64;4000;5.8;33;No;Android;Snapdragon 7+ Gen 2;4.2;August;2025
+Oppo;Find X7 161;584;16;256;48;5000;6.6;120;No;Android;Tensor G4;4.3;September;2025
+Oppo;Reno 11 73;681;16;1024;200;5500;6.7;44;Yes;Android;Snapdragon 8 Gen 3;3.6;October;2025
+Realme;11 Pro+ 376;112;6;256;200;4000;5.5;120;No;Android;Snapdragon 7+ Gen 2;3.5;January;2025
+Realme;GT Neo 6 992;212;4;512;108;6000;7.1;44;No;Android;Exynos 2400;4.3;October;2025
+Samsung;Galaxy Z Fold6 466;876;16;64;48;4000;6.4;18;No;Android;Snapdragon 7+ Gen 2;4.1;October;2025
+Realme;11 Pro+ 697;1229;8;1024;64;5500;6.4;44;Yes;Android;Dimensity 9300;4.2;August;2025
+Xiaomi;Mi 14 89;1276;8;256;108;5500;6.4;120;No;Android;Tensor G4;4.1;January;2025
+Realme;GT 7 Pro 108;1047;12;1024;48;4000;7.1;100;No;Android;Helio G99;4.2;July;2025
+Google;Pixel 9 Pro 288;1320;4;64;200;4500;6.4;44;Yes;Android;Snapdragon 6 Gen 1;3.9;December;2025
+Realme;C65 33;804;12;1024;50;5000;6.4;33;No;Android;Tensor G4;4.4;October;2025
+Infinix;Smart 8 822;738;6;512;108;5000;6.8;100;No;Android;Dimensity 9300;4.5;January;2025
+Xiaomi;Poco F6 373;651;8;1024;64;4500;5.7;44;Yes;Android;Snapdragon 8 Gen 3;3.6;December;2025
+OnePlus;OnePlus 13 908;1053;16;512;12;5500;6.9;33;No;Android;Snapdragon 8 Gen 3;4.1;January;2025
+Oppo;Reno 11 265;102;8;128;48;5500;7;33;No;Android;Exynos 2400;4.4;January;2025
+Realme;11 Pro+ 814;814;16;256;200;5000;6.2;65;Yes;Android;Exynos 2400;3.7;March;2025
+Xiaomi;Redmi Note 14 Pro 634;525;12;64;108;5500;6.6;65;No;Android;A18 Pro;3.7;December;2025
+Apple;iPhone 16 Pro 48;1182;6;512;200;4500;6.3;120;No;iOS;Snapdragon 7+ Gen 2;4.6;June;2025
+Vivo;Y200 603;1257;12;1024;200;4500;5.8;120;No;Android;Helio G99;4.3;October;2025
+Samsung;Galaxy S24 Ultra 609;1400;8;64;64;6000;6;44;No;Android;Tensor G4;3.7;December;2025
+Infinix;Smart 8 26;637;8;512;200;5000;5.6;65;No;Android;Snapdragon 7+ Gen 2;4.9;December;2025
+Oppo;Find X7 15;1346;16;128;50;5000;7.2;65;Yes;Android;Dimensity 9300;4.8;March;2025
+Google;Pixel 9 Pro 753;1480;16;512;108;6000;6.3;33;No;Android;Tensor G4;4.7;April;2025
+Oppo;A98 108;1190;4;128;12;5500;6.1;100;No;Android;Dimensity 9300;4.6;January;2025
+Oppo;Reno 11 946;1025;16;512;200;6000;6.5;18;Yes;Android;A18 Pro;4.3;August;2025
+Vivo;Y200 811;300;12;512;200;5000;7.2;120;Yes;Android;A18 Pro;4.1;October;2025
+Xiaomi;Poco X6 Pro 823;629;12;256;64;6000;7.1;44;Yes;Android;A18 Pro;3.7;July;2025
+Xiaomi;Poco X6 Pro 537;1442;4;128;108;4500;6.5;18;No;Android;Snapdragon 7+ Gen 2;4.7;December;2025
+OnePlus;Nord 4 68;119;12;64;48;4000;5.8;65;Yes;Android;Snapdragon 6 Gen 1;4.4;December;2025
+Samsung;Galaxy A75 854;230;6;512;50;4500;6.2;33;No;Android;Dimensity 9300;5;September;2025
+Xiaomi;Poco F6 669;238;12;1024;50;4500;7.1;18;No;Android;Snapdragon 8 Gen 3;4.3;October;2025
+Google;Pixel 8 540;1230;6;128;200;4000;5.6;44;No;Android;Helio G99;4.4;February;2025
+Oppo;Reno 11 404;188;16;1024;200;5000;6.7;100;Yes;Android;Helio G99;4.7;October;2025
+Apple;iPhone 16 Pro Max 413;168;4;256;48;4000;6.1;65;Yes;iOS;Snapdragon 7+ Gen 2;4.8;July;2025
+Infinix;Zero 30 771;666;8;64;48;4500;6.8;44;Yes;Android;Helio G99;4.5;September;2025
+Oppo;Reno 12 96;258;4;256;108;5500;7.2;18;Yes;Android;Helio G99;4.5;June;2025
+Realme;GT 7 Pro 272;213;4;256;200;5500;6.2;120;Yes;Android;Helio G99;4.2;February;2025
+OnePlus;OnePlus 12 755;1278;12;128;200;5000;6.5;18;No;Android;A18 Pro;3.9;June;2025
+Apple;iPhone 16 945;356;6;256;12;6000;6.8;18;No;iOS;Dimensity 9300;4.6;August;2025
+Vivo;V29e 240;913;16;1024;48;5500;7.1;33;No;Android;Snapdragon 8 Gen 3;4.1;June;2025
+Google;Pixel Fold 2 375;994;16;1024;48;6000;6.6;65;No;Android;A18 Pro;4.3;November;2025
+Infinix;Zero 30 458;378;12;512;12;5000;6.9;120;Yes;Android;Snapdragon 6 Gen 1;3.7;November;2025
+Xiaomi;Poco X6 Pro 798;758;16;64;12;5500;5.9;18;No;Android;Snapdragon 7+ Gen 2;3.9;October;2025
+Oppo;Reno 12 410;166;6;64;64;6000;6.6;100;No;Android;Snapdragon 8 Gen 3;4;June;2025
+Vivo;V29e 743;161;16;64;64;5000;7.2;44;Yes;Android;Tensor G4;3.8;August;2025
+Realme;GT Neo 6 334;208;16;128;200;6000;7.1;18;No;Android;Snapdragon 7+ Gen 2;4.3;July;2025
+Oppo;Reno 12 440;695;8;256;50;5000;6.4;100;No;Android;A18 Pro;4.8;June;2025
+Xiaomi;Mi 13 Ultra 418;1343;8;1024;64;5000;5.5;18;No;Android;Tensor G4;4.3;October;2025
+Vivo;V29e 261;544;12;1024;200;4000;6.8;44;Yes;Android;Tensor G4;4.1;August;2025
+Infinix;Smart 8 626;1470;16;64;108;4000;6.1;33;Yes;Android;Snapdragon 8 Gen 3;4.7;January;2025
+Realme;Narzo 70 335;714;16;128;50;4000;5.5;100;No;Android;A18 Pro;4.4;January;2025
+Vivo;Y100A 133;1282;4;128;64;5000;6.6;120;Yes;Android;Snapdragon 8 Gen 3;4.4;December;2025
+Infinix;Smart 8 549;1164;6;128;200;4000;6.2;18;Yes;Android;A18 Pro;4.8;March;2025
+Samsung;Galaxy Z Fold6 878;385;6;64;48;6000;6;18;No;Android;A18 Pro;4.9;January;2025
+Infinix;Note 40 Pro 172;1257;6;1024;108;5000;5.9;18;Yes;Android;Snapdragon 6 Gen 1;3.5;January;2025
+Google;Pixel 9 Pro 78;1321;16;256;64;4000;7;44;Yes;Android;Tensor G4;4.1;February;2025
+Xiaomi;Mi 14 821;776;8;1024;48;5500;6.5;44;Yes;Android;Exynos 2400;4;April;2025
+Infinix;Smart 8 989;1394;4;1024;12;4500;6.9;18;No;Android;Snapdragon 8 Gen 3;4.5;June;2025
+Google;Pixel 8 416;952;6;256;50;4000;7.1;65;No;Android;Dimensity 9300;4.4;June;2025
+Samsung;Galaxy S24 Ultra 375;514;12;128;64;6000;7;100;Yes;Android;Dimensity 9300;3.5;August;2025
+Samsung;Galaxy M55 969;1052;6;512;200;5500;7.1;33;Yes;Android;Tensor G4;4.6;August;2025
+Infinix;GT 20 Pro 745;1258;8;64;108;4500;6.4;65;Yes;Android;Snapdragon 8 Gen 3;3.6;November;2025
+Oppo;Reno 12 808;316;8;512;64;4000;6.6;33;No;Android;A18 Pro;4.5;September;2025
+Xiaomi;Poco F6 756;350;6;512;12;4000;6.1;44;No;Android;Helio G99;4.6;April;2025
+Vivo;Y100A 340;313;8;64;64;6000;6.1;33;Yes;Android;A18 Pro;4.6;July;2025
+Xiaomi;Poco F6 396;1349;12;512;12;4500;6.2;18;No;Android;Snapdragon 8 Gen 3;4.8;January;2025
+OnePlus;Nord CE 4 Lite 979;547;12;256;200;4000;6.6;65;Yes;Android;Snapdragon 8 Gen 3;4.4;May;2025
+Vivo;Y100A 749;314;12;1024;108;5000;7.1;44;Yes;Android;A18 Pro;4;April;2025
+Oppo;Reno 12 300;386;8;128;12;4500;6.2;65;No;Android;Snapdragon 6 Gen 1;4.5;November;2025
+Google;Pixel Fold 2 185;476;12;1024;48;5500;6.9;100;No;Android;Snapdragon 6 Gen 1;4.6;August;2025
+Google;Pixel 9 297;406;6;256;64;4500;6.7;18;No;Android;A18 Pro;4.2;May;2025
+Google;Pixel 8 488;1209;16;64;48;5000;6;33;No;Android;Dimensity 9300;3.6;January;2025
+Oppo;A98 349;1141;12;64;12;5000;5.6;100;Yes;Android;Tensor G4;3.8;January;2025
+Oppo;F27 Pro 543;444;16;64;48;4500;7;120;Yes;Android;Tensor G4;3.8;February;2025
+OnePlus;OnePlus 13R 921;1298;4;64;48;4500;5.7;44;No;Android;Snapdragon 8 Gen 3;3.5;April;2025
+Infinix;Hot 40 184;1132;6;128;48;4500;6.9;65;No;Android;Dimensity 9300;3.9;July;2025
+Vivo;Y100A 553;1403;4;1024;200;4000;7.1;65;No;Android;Exynos 2400;4.8;December;2025
+Vivo;V29e 256;473;16;128;108;5000;6;44;Yes;Android;Snapdragon 6 Gen 1;4.3;December;2025
+Samsung;Galaxy S24 289;991;16;128;48;5500;5.8;65;No;Android;Helio G99;3.7;October;2025
+Google;Pixel 9 Pro 249;951;8;128;48;5500;6;65;Yes;Android;Snapdragon 6 Gen 1;4.4;March;2025
+Infinix;Smart 8 731;910;8;1024;200;4000;5.6;18;Yes;Android;Snapdragon 8 Gen 3;4.6;July;2025
+Realme;GT Neo 6 746;752;4;1024;12;5000;6.6;120;No;Android;Snapdragon 8 Gen 3;4.5;December;2025
+Vivo;Y100A 908;1220;16;64;64;4500;6;65;No;Android;A18 Pro;4.1;April;2025
+Realme;C65 370;827;16;512;50;5500;6.2;100;No;Android;Tensor G4;4;February;2025
+Realme;Narzo 70 410;287;8;512;48;5500;6.4;100;Yes;Android;A18 Pro;4.1;June;2025
+Xiaomi;Mi 14 338;476;16;512;200;4000;7;120;Yes;Android;Dimensity 9300;4.5;August;2025
+Realme;Narzo 70 939;236;12;1024;50;6000;6.8;33;Yes;Android;A18 Pro;4.5;October;2025
+OnePlus;Nord CE 4 Lite 268;262;8;1024;108;5000;6.9;18;Yes;Android;A18 Pro;4.3;August;2025
+Xiaomi;Mi 13 Ultra 849;803;8;128;200;4500;5.7;120;Yes;Android;Exynos 2400;3.8;January;2025
+Xiaomi;Mi 14 53;754;12;512;108;6000;6;120;Yes;Android;Dimensity 9300;3.6;February;2025
+Samsung;Galaxy S24 Ultra 98;793;12;128;50;5500;6.4;44;Yes;Android;Tensor G4;4.2;October;2025
+Apple;iPhone 16 Pro 315;1188;8;512;48;4000;6.7;18;No;iOS;Snapdragon 7+ Gen 2;4.7;July;2025
+Apple;iPhone 16 714;1005;12;1024;12;5000;6.1;33;Yes;iOS;Helio G99;4.6;May;2025
+Samsung;Galaxy S24 378;910;4;64;108;6000;6.9;65;Yes;Android;Snapdragon 8 Gen 3;4.1;December;2025
+Xiaomi;Poco X6 Pro 204;1496;6;1024;12;5000;7;120;No;Android;Tensor G4;4.6;November;2025
+Infinix;GT 20 Pro 907;732;12;64;108;4000;5.6;18;Yes;Android;Dimensity 9300;4.5;December;2025
+Oppo;F27 Pro 223;888;16;128;12;5500;6.6;120;No;Android;Snapdragon 7+ Gen 2;3.9;May;2025
+Apple;iPhone 16 Pro 763;348;12;1024;108;6000;6.4;100;No;iOS;Snapdragon 8 Gen 3;4.2;April;2025
+Apple;iPhone 14 441;1129;12;512;64;4500;7.2;65;No;iOS;Exynos 2400;4.2;August;2025
+Vivo;V30 398;503;12;256;48;5000;6.5;44;No;Android;Dimensity 9300;4.1;January;2025
+Samsung;Galaxy S24 421;247;16;128;50;4500;7.1;120;Yes;Android;Snapdragon 6 Gen 1;4;February;2025
+OnePlus;OnePlus 13 728;1238;8;1024;64;5000;7.2;120;Yes;Android;Snapdragon 7+ Gen 2;4.9;May;2025
+OnePlus;OnePlus 13R 421;706;12;1024;50;4000;5.7;33;Yes;Android;Exynos 2400;3.9;March;2025
+OnePlus;OnePlus 13 838;1398;6;64;50;5500;5.8;100;Yes;Android;Snapdragon 8 Gen 3;3.6;October;2025
+Google;Pixel Fold 2 528;358;4;1024;50;5500;7.1;44;No;Android;Snapdragon 6 Gen 1;4;October;2025
+Infinix;Note 40 Pro 164;1430;6;64;48;6000;6.1;100;No;Android;Snapdragon 8 Gen 3;4.1;January;2025
+Oppo;Reno 11 399;107;6;64;64;6000;6.3;65;Yes;Android;Snapdragon 8 Gen 3;3.9;March;2025
+Realme;C65 776;818;4;512;108;4000;6.3;44;No;Android;Dimensity 9300;4.2;January;2025
+Infinix;Hot 40 117;613;16;1024;50;4500;5.9;44;Yes;Android;Exynos 2400;3.9;December;2025
+Infinix;GT 20 Pro 990;1065;4;1024;200;6000;6.2;33;Yes;Android;A18 Pro;4.5;January;2025
+Oppo;Reno 12 768;1143;4;128;50;5000;6.1;100;No;Android;Dimensity 9300;4.7;October;2025
+Xiaomi;Mi 13 Ultra 677;130;8;64;200;5000;6.3;33;No;Android;Snapdragon 8 Gen 3;4.6;February;2025
+Xiaomi;Poco X6 Pro 150;781;4;64;12;4500;6.5;120;No;Android;Helio G99;4.2;December;2025
+OnePlus;OnePlus 12 683;724;4;128;64;5000;5.7;65;No;Android;Snapdragon 6 Gen 1;3.6;February;2025
+Google;Pixel 9 Pro 111;1437;4;256;48;5000;6.6;120;Yes;Android;Helio G99;4.3;September;2025
+Infinix;Smart 8 818;1384;16;1024;200;5500;7;44;No;Android;Helio G99;4.9;September;2025
+OnePlus;Nord CE 4 Lite 586;876;6;128;12;4500;6.6;120;Yes;Android;Exynos 2400;4.8;March;2025
+Realme;C65 285;360;6;256;108;4000;6.6;100;No;Android;A18 Pro;4.1;May;2025
+Vivo;Y200 328;776;12;512;48;4500;6.5;65;Yes;Android;Tensor G4;3.6;February;2025
+Apple;iPhone 15 325;1326;16;64;12;4000;6;120;No;iOS;Snapdragon 8 Gen 3;3.9;February;2025
+OnePlus;OnePlus 12 265;637;16;1024;48;4500;7;100;Yes;Android;Dimensity 9300;3.6;February;2025
+Vivo;Y100A 216;1137;4;64;12;6000;6.1;100;Yes;Android;Snapdragon 7+ Gen 2;4.3;February;2025
+OnePlus;OnePlus 13 375;342;8;512;48;4500;7.1;18;No;Android;Helio G99;4.8;June;2025
+Xiaomi;Mi 14 462;105;12;64;12;5000;6.4;120;Yes;Android;Helio G99;4.8;April;2025
+Apple;iPhone 16 577;727;6;64;50;4500;7.2;100;No;iOS;Snapdragon 8 Gen 3;4.1;July;2025
+Apple;iPhone 16 979;736;6;128;64;6000;7.1;18;Yes;iOS;Tensor G4;3.7;July;2025
+Infinix;Zero 30 499;773;8;64;50;6000;7.1;65;Yes;Android;Snapdragon 7+ Gen 2;4;October;2025
+Xiaomi;Poco X6 Pro 519;794;12;1024;200;4000;5.9;44;No;Android;Snapdragon 7+ Gen 2;4.3;October;2025
+Apple;iPhone 16 Pro Max 615;367;4;512;200;4500;7.2;65;No;iOS;Dimensity 9300;4.2;April;2025
+Google;Pixel 9 43;658;8;64;200;4000;6.8;100;No;Android;Exynos 2400;4.5;August;2025
+Google;Pixel 8 485;1375;4;1024;200;6000;5.8;33;No;Android;Helio G99;3.8;February;2025
+OnePlus;OnePlus 13R 588;463;8;512;48;4500;6;100;Yes;Android;Dimensity 9300;4.5;November;2025
+OnePlus;OnePlus 12 438;304;6;1024;48;4000;7.1;100;No;Android;Snapdragon 8 Gen 3;3.5;January;2025
+OnePlus;Nord 4 586;975;4;1024;200;4000;5.6;65;No;Android;A18 Pro;3.6;January;2025
+Vivo;Y200 101;363;16;64;200;6000;6.8;65;Yes;Android;Helio G99;3.9;March;2025
+Apple;iPhone 16 Pro 165;919;8;512;12;5500;7;33;No;iOS;Dimensity 9300;4;December;2025
+Realme;GT 7 Pro 382;111;12;1024;50;5500;6.7;44;No;Android;Exynos 2400;5;October;2025
+Google;Pixel 9 743;1293;8;512;48;5500;6.3;100;Yes;Android;Dimensity 9300;4.8;April;2025
+Apple;iPhone 14 154;186;8;128;64;5500;6.1;120;Yes;iOS;Snapdragon 7+ Gen 2;4.9;December;2025
+Vivo;X100 Pro 300;622;8;64;200;4000;7.2;18;Yes;Android;A18 Pro;4.9;November;2025
+Xiaomi;Poco F6 162;585;6;1024;50;5000;6;65;No;Android;Dimensity 9300;4.3;June;2025
+Infinix;GT 20 Pro 284;1276;16;512;48;6000;7.1;100;No;Android;A18 Pro;4.8;January;2025
+Xiaomi;Mi 14 110;328;4;512;108;5500;5.9;100;Yes;Android;Snapdragon 6 Gen 1;4.3;January;2025
+Oppo;A98 278;1399;8;1024;48;4500;6.9;100;Yes;Android;Dimensity 9300;5;April;2025
+Oppo;Reno 11 742;1414;12;128;12;5500;6.2;65;No;Android;Exynos 2400;3.8;April;2025
+Apple;iPhone 14 712;628;6;64;64;5000;7.2;100;No;iOS;Helio G99;3.7;February;2025
+Apple;iPhone 16 Pro Max 193;768;16;256;50;6000;6.6;33;No;iOS;Exynos 2400;3.8;June;2025
+Google;Pixel 9 Pro 817;660;6;64;48;5000;5.5;18;No;Android;Snapdragon 7+ Gen 2;4.4;September;2025
+Infinix;Note 40 Pro 819;567;12;1024;200;4500;6.3;120;Yes;Android;A18 Pro;3.7;March;2025
+Samsung;Galaxy A75 379;1137;12;128;12;4000;6.4;65;Yes;Android;Helio G99;4.7;January;2025
+Samsung;Galaxy S24 855;992;6;64;200;6000;5.6;33;No;Android;Tensor G4;4;February;2025
+Oppo;A98 424;1075;6;64;50;4000;6.6;120;Yes;Android;Tensor G4;4.6;May;2025
+Infinix;Note 40 Pro 336;184;6;512;12;4500;6.9;120;Yes;Android;Snapdragon 8 Gen 3;4.5;June;2025
+Apple;iPhone 14 869;506;16;256;200;4500;6.6;44;No;iOS;Snapdragon 8 Gen 3;4.1;December;2025
+Oppo;F27 Pro 908;238;4;1024;108;5500;5.7;65;No;Android;Snapdragon 8 Gen 3;4.8;January;2025
+Oppo;A98 167;1250;6;128;48;6000;6.6;100;No;Android;Snapdragon 6 Gen 1;4.9;October;2025
+Apple;iPhone 16 Pro 672;1087;8;128;64;6000;6.9;120;Yes;iOS;Snapdragon 8 Gen 3;3.7;February;2025
+Apple;iPhone 16 Pro Max 359;1417;12;512;48;5000;5.6;18;No;iOS;Helio G99;4.9;October;2025
+Google;Pixel Fold 2 971;469;8;512;50;6000;6.6;100;No;Android;Exynos 2400;5;June;2025
+Samsung;Galaxy A75 466;167;16;256;48;4000;6.7;120;Yes;Android;A18 Pro;4.6;June;2025
+Xiaomi;Mi 13 Ultra 59;342;4;512;48;5000;5.5;120;Yes;Android;Helio G99;4.9;August;2025
+Samsung;Galaxy Z Fold6 192;1406;8;512;200;4500;5.8;65;Yes;Android;A18 Pro;3.6;June;2025
+Realme;GT 7 Pro 842;256;8;512;12;5000;6.5;44;No;Android;A18 Pro;3.9;May;2025
+Oppo;Reno 11 625;1059;4;256;12;4000;6.5;100;Yes;Android;A18 Pro;4.5;March;2025
+Infinix;Smart 8 689;627;6;128;200;6000;6.1;44;No;Android;Snapdragon 6 Gen 1;4.6;May;2025
+Samsung;Galaxy A75 639;1095;12;1024;108;5500;7.1;18;Yes;Android;Dimensity 9300;4.9;March;2025
+OnePlus;Nord CE 4 Lite 376;928;12;256;48;4000;6.4;33;Yes;Android;Dimensity 9300;3.8;March;2025
+Realme;C65 586;538;6;512;48;6000;6.6;65;No;Android;Tensor G4;3.5;December;2025
+Apple;iPhone 15 293;377;12;512;200;5000;7;44;Yes;iOS;Helio G99;4.6;July;2025
+Google;Pixel Fold 2 309;447;8;256;48;5500;6.1;100;No;Android;Exynos 2400;4.7;April;2025
+Samsung;Galaxy S24 Ultra 180;1160;6;64;48;5500;6.7;65;Yes;Android;Helio G99;4.9;February;2025
+Xiaomi;Poco F6 247;773;12;64;12;4500;5.6;100;Yes;Android;Tensor G4;4.3;October;2025
+Infinix;GT 20 Pro 828;881;16;1024;200;5500;6;120;No;Android;Snapdragon 8 Gen 3;4.1;December;2025
+Samsung;Galaxy S24 669;662;6;512;108;6000;5.8;18;No;Android;Exynos 2400;4.7;March;2025
+Xiaomi;Poco X6 Pro 637;997;8;128;200;6000;6;44;Yes;Android;Snapdragon 7+ Gen 2;3.8;April;2025
+Realme;GT 7 Pro 425;1332;8;128;48;5500;6.3;44;No;Android;Tensor G4;4.9;April;2025
+Xiaomi;Mi 14 497;1336;16;256;48;6000;6.6;120;No;Android;Snapdragon 8 Gen 3;3.8;January;2025
+Infinix;Smart 8 258;743;8;128;50;4500;6;44;Yes;Android;Snapdragon 6 Gen 1;4.7;November;2025
+Realme;11 Pro+ 644;941;6;128;12;4000;6.1;120;No;Android;A18 Pro;4.8;July;2025
+Samsung;Galaxy S24 Ultra 76;462;6;64;64;4500;5.5;18;No;Android;Snapdragon 8 Gen 3;4.1;January;2025
+Vivo;Y200 471;1447;8;128;64;4000;6;100;Yes;Android;Snapdragon 7+ Gen 2;3.7;March;2025
+Infinix;Smart 8 618;473;8;1024;108;5000;5.5;100;No;Android;Dimensity 9300;3.9;October;2025
+Vivo;V30 96;205;6;512;12;6000;7.1;18;Yes;Android;A18 Pro;4.6;December;2025
+Oppo;Reno 12 973;1480;4;512;48;5000;6.4;100;Yes;Android;Exynos 2400;4.6;February;2025
+Samsung;Galaxy Z Fold6 229;316;12;128;108;5000;6.4;120;Yes;Android;Exynos 2400;4.4;April;2025
+Infinix;Note 40 Pro 885;1090;6;128;200;5000;6.7;18;No;Android;Snapdragon 6 Gen 1;4.4;August;2025
+Realme;C65 759;543;12;128;50;4500;6.4;44;Yes;Android;Snapdragon 7+ Gen 2;3.9;June;2025
+Xiaomi;Mi 14 16;636;4;256;108;5500;7;65;No;Android;Exynos 2400;4;February;2025
+Vivo;Y200 464;467;8;512;48;4000;6.5;65;No;Android;Snapdragon 6 Gen 1;4.4;June;2025
+OnePlus;OnePlus 13 343;1317;12;512;12;4000;6.5;44;Yes;Android;Snapdragon 7+ Gen 2;3.6;September;2025
+Oppo;Find X7 350;1075;6;1024;12;5500;7.1;65;No;Android;Snapdragon 8 Gen 3;3.7;December;2025
+Vivo;X100 Pro 740;886;16;128;50;4000;5.5;44;Yes;Android;Snapdragon 8 Gen 3;4.8;July;2025
+Realme;C65 454;1420;6;256;200;5000;5.6;18;Yes;Android;Exynos 2400;3.5;July;2025
+Apple;iPhone 16 Pro Max 22;625;6;1024;50;4500;6.5;65;Yes;iOS;Snapdragon 7+ Gen 2;4.3;August;2025
+Realme;Narzo 70 810;896;16;128;50;4000;6.2;100;No;Android;Dimensity 9300;4.9;February;2025
+OnePlus;OnePlus 12 574;731;8;64;12;4000;6.1;44;Yes;Android;Snapdragon 7+ Gen 2;4.2;February;2025
+Xiaomi;Poco F6 477;1196;4;64;64;5500;6.3;100;No;Android;Exynos 2400;3.8;January;2025
+Oppo;Reno 11 184;1478;6;1024;12;5500;6;120;Yes;Android;Exynos 2400;4.7;February;2025
+Realme;C65 591;738;12;128;12;4500;6.4;33;Yes;Android;Snapdragon 8 Gen 3;4;October;2025
+Xiaomi;Redmi Note 14 Pro 742;1449;4;512;200;6000;6.2;18;No;Android;Snapdragon 7+ Gen 2;3.8;September;2025
+Realme;GT 7 Pro 298;1032;4;256;50;6000;7;44;No;Android;Helio G99;3.9;August;2025
+Apple;iPhone 16 645;1233;6;128;12;4000;5.7;33;No;iOS;Dimensity 9300;3.6;December;2025
+OnePlus;OnePlus 13R 806;304;6;512;64;4000;6.8;65;No;Android;Dimensity 9300;4.6;January;2025
+Google;Pixel 9 Pro 196;225;6;1024;108;5000;7;33;No;Android;Snapdragon 6 Gen 1;4.5;September;2025
+Oppo;F27 Pro 390;1040;4;512;200;5500;5.6;44;No;Android;Helio G99;3.7;January;2025
+Xiaomi;Mi 13 Ultra 258;235;16;512;108;6000;6.1;44;No;Android;Helio G99;4.7;October;2025
+Oppo;Reno 12 224;1060;4;128;200;6000;6.7;65;Yes;Android;Dimensity 9300;4.9;November;2025
+Vivo;Y100A 826;1479;12;1024;108;4000;6.2;100;No;Android;Snapdragon 7+ Gen 2;3.5;July;2025
+Xiaomi;Mi 13 Ultra 167;1042;12;128;50;4500;6.8;120;No;Android;Snapdragon 6 Gen 1;3.6;May;2025
+Vivo;Y200 759;886;8;1024;12;5000;6.7;100;Yes;Android;Snapdragon 8 Gen 3;3.6;July;2025
+Oppo;F27 Pro 331;319;6;256;200;4500;6.7;44;No;Android;Dimensity 9300;3.7;May;2025
+Infinix;Zero 30 277;404;6;128;48;4500;6.9;18;Yes;Android;Exynos 2400;3.9;May;2025
+Infinix;Smart 8 695;1167;4;1024;50;4500;7.1;18;Yes;Android;Snapdragon 7+ Gen 2;5;February;2025
+Vivo;Y200 613;1486;16;64;48;5500;6.3;65;No;Android;Snapdragon 7+ Gen 2;4.8;February;2025
+Apple;iPhone 14 495;1058;4;128;108;5000;6.8;44;Yes;iOS;Tensor G4;4.4;November;2025
+OnePlus;Nord CE 4 Lite 361;255;8;64;200;6000;6.7;65;Yes;Android;Snapdragon 8 Gen 3;4.6;August;2025
+Google;Pixel Fold 2 99;1098;4;128;12;5000;7;65;No;Android;Tensor G4;4.5;March;2025
+Apple;iPhone 16 Pro Max 779;164;6;512;48;4000;6.6;33;No;iOS;Snapdragon 6 Gen 1;4.5;December;2025
+Realme;GT 7 Pro 131;1122;8;128;48;5500;6;120;Yes;Android;Snapdragon 6 Gen 1;3.8;May;2025
+OnePlus;Nord 4 281;475;8;64;12;4500;5.8;44;No;Android;A18 Pro;3.9;July;2025
+Samsung;Galaxy A75 15;335;4;64;108;5500;5.8;44;Yes;Android;Tensor G4;4.8;April;2025
+OnePlus;Nord 4 618;1450;12;1024;200;5000;6.5;18;Yes;Android;Exynos 2400;4;January;2025
+OnePlus;OnePlus 13 603;1033;6;512;50;5500;6.7;44;No;Android;Tensor G4;3.5;November;2025
+OnePlus;OnePlus 12 703;232;16;1024;200;6000;6.7;100;No;Android;Snapdragon 7+ Gen 2;4.9;June;2025
+Apple;iPhone 16 Pro 711;1477;12;512;200;6000;5.7;18;No;iOS;Dimensity 9300;5;August;2025
+Oppo;Reno 11 414;661;6;1024;64;5000;7.2;100;Yes;Android;Snapdragon 6 Gen 1;3.6;October;2025
+Vivo;Y100A 67;1417;6;512;200;6000;5.6;120;No;Android;Snapdragon 6 Gen 1;4.4;June;2025
+OnePlus;OnePlus 12 776;1047;8;1024;12;4500;6.2;120;No;Android;Tensor G4;4.6;April;2025
+Samsung;Galaxy A75 480;788;16;1024;64;4500;6.7;65;No;Android;Exynos 2400;3.7;October;2025
+Oppo;F27 Pro 826;1012;16;256;108;4000;6.1;120;No;Android;Snapdragon 6 Gen 1;4.9;September;2025
+OnePlus;OnePlus 12 529;1138;12;256;12;4500;6.1;33;No;Android;Helio G99;3.8;January;2025
+OnePlus;OnePlus 13 308;1413;8;256;12;5000;6.1;65;No;Android;Helio G99;3.7;January;2025
+Infinix;Hot 40 38;1019;4;128;200;6000;5.8;33;Yes;Android;Snapdragon 6 Gen 1;4;May;2025
+Vivo;Y200 702;604;16;512;108;5000;6.4;65;Yes;Android;Helio G99;3.8;January;2025
+Oppo;F27 Pro 604;501;6;256;108;4500;5.7;65;Yes;Android;Tensor G4;3.8;April;2025
+Vivo;V30 9;849;16;128;200;5000;6.1;120;No;Android;A18 Pro;4.9;May;2025
+Apple;iPhone 16 Pro 566;1014;16;64;12;4000;7;33;Yes;iOS;Snapdragon 6 Gen 1;4.6;April;2025
+Vivo;X100 Pro 12;394;16;128;200;5000;5.9;33;No;Android;Snapdragon 7+ Gen 2;4.5;July;2025
+Oppo;A98 429;1107;6;1024;48;5000;6.8;120;No;Android;Snapdragon 8 Gen 3;4.2;August;2025
+Samsung;Galaxy Z Fold6 549;255;8;512;64;6000;6.7;100;No;Android;Snapdragon 8 Gen 3;4.6;August;2025
+Infinix;GT 20 Pro 521;554;16;256;64;5500;6.8;120;No;Android;Helio G99;3.7;August;2025
+Realme;GT 7 Pro 710;342;12;512;12;4500;7;65;Yes;Android;Tensor G4;3.5;January;2025
+Apple;iPhone 16 Pro Max 361;1163;12;64;108;4000;7;100;No;iOS;A18 Pro;4.1;March;2025
+Samsung;Galaxy M55 865;792;4;256;48;4000;7.1;18;No;Android;Helio G99;4.3;January;2025
+Vivo;X100 Pro 415;126;6;128;64;4000;6.2;33;No;Android;Exynos 2400;4.3;November;2025
+Oppo;F27 Pro 263;691;8;1024;200;6000;6.7;18;Yes;Android;Dimensity 9300;5;June;2025
+Oppo;Find X7 246;224;6;512;12;5000;6.8;18;Yes;Android;A18 Pro;4.3;November;2025
+OnePlus;OnePlus 12 448;1450;4;512;12;4000;6.5;100;No;Android;Snapdragon 6 Gen 1;4.7;September;2025
+Xiaomi;Poco F6 439;256;16;1024;48;4500;6.8;100;No;Android;Helio G99;3.7;August;2025
+OnePlus;Nord CE 4 Lite 51;698;6;1024;50;4000;5.8;33;No;Android;Dimensity 9300;4.8;October;2025
+Apple;iPhone 15 146;761;6;512;50;4000;5.6;65;No;iOS;Snapdragon 8 Gen 3;3.7;November;2025
+Xiaomi;Poco X6 Pro 588;723;12;1024;12;4000;6.7;120;No;Android;Helio G99;3.7;February;2025
+Oppo;Reno 11 490;682;16;128;108;5000;7.2;65;Yes;Android;Snapdragon 6 Gen 1;3.8;October;2025
+Samsung;Galaxy S24 777;142;4;512;200;4500;6;18;Yes;Android;Snapdragon 8 Gen 3;4.1;December;2025
+Google;Pixel 8 809;653;8;128;200;6000;6;65;Yes;Android;Exynos 2400;4.1;April;2025
+Infinix;Note 40 Pro 443;263;16;128;12;5500;6.8;100;Yes;Android;Tensor G4;3.5;September;2025
+Google;Pixel 9 277;464;16;1024;200;6000;5.7;100;Yes;Android;Snapdragon 6 Gen 1;4.9;September;2025
+Xiaomi;Mi 13 Ultra 366;182;12;64;200;5000;6;18;No;Android;Tensor G4;3.8;October;2025
+Infinix;Note 40 Pro 36;851;8;1024;108;4000;6.8;18;Yes;Android;Exynos 2400;4.4;December;2025
+Xiaomi;Poco F6 487;313;12;256;48;4500;6.1;120;Yes;Android;Dimensity 9300;3.7;May;2025
+Vivo;V29e 767;1425;8;256;64;6000;5.8;65;No;Android;Dimensity 9300;3.8;October;2025
+Vivo;X100 Pro 585;933;16;512;108;6000;7.1;65;No;Android;Exynos 2400;4.8;July;2025
+Samsung;Galaxy S24 903;1221;6;1024;50;5000;6.3;120;Yes;Android;Dimensity 9300;4;June;2025
+OnePlus;Nord CE 4 Lite 241;245;4;256;48;4500;6.2;44;Yes;Android;Tensor G4;5;August;2025
+Vivo;Y100A 175;1331;16;128;48;6000;6.5;100;Yes;Android;Dimensity 9300;3.7;November;2025
+Xiaomi;Mi 14 434;1246;4;512;108;5500;6.6;120;Yes;Android;Helio G99;4.4;July;2025
+OnePlus;OnePlus 13 584;702;4;64;108;5000;5.7;100;No;Android;Helio G99;4.5;May;2025
+Oppo;F27 Pro 456;1300;6;512;200;4000;5.7;100;Yes;Android;A18 Pro;4.6;February;2025
+Vivo;X100 Pro 954;883;8;512;64;5000;7.1;18;No;Android;Dimensity 9300;4.8;January;2025
+Samsung;Galaxy M55 748;917;16;64;64;6000;6.2;120;Yes;Android;Snapdragon 8 Gen 3;3.8;August;2025
+OnePlus;OnePlus 12 706;724;8;256;64;4500;6.5;18;Yes;Android;A18 Pro;3.9;May;2025
+Xiaomi;Poco X6 Pro 270;1356;8;1024;50;5000;6.6;100;No;Android;Snapdragon 8 Gen 3;4.9;February;2025
+Infinix;Zero 30 97;284;8;128;200;4000;7;120;No;Android;Dimensity 9300;4.1;January;2025
+Xiaomi;Mi 13 Ultra 51;800;4;64;12;5500;6.3;33;No;Android;Snapdragon 6 Gen 1;4.4;March;2025
+Infinix;GT 20 Pro 773;1485;16;512;48;5000;6.5;33;No;Android;Snapdragon 8 Gen 3;4.4;July;2025
+Oppo;Reno 11 35;544;6;1024;64;5000;6.5;100;Yes;Android;Tensor G4;3.8;October;2025
+Realme;Narzo 70 534;486;6;512;108;5000;6.3;120;Yes;Android;A18 Pro;5;January;2025
+OnePlus;Nord 4 900;508;6;1024;12;4500;6.6;33;Yes;Android;A18 Pro;4.5;March;2025
+Apple;iPhone 16 293;582;12;512;200;6000;5.9;33;Yes;iOS;Exynos 2400;4.4;September;2025
+Google;Pixel 7a 89;1256;6;512;50;5000;7.1;33;Yes;Android;Snapdragon 7+ Gen 2;4.7;October;2025
+OnePlus;OnePlus 12 988;325;12;64;200;4500;5.5;100;No;Android;Dimensity 9300;3.9;March;2025
+OnePlus;Nord CE 4 Lite 757;1446;6;64;200;4500;5.8;65;Yes;Android;Tensor G4;4.6;December;2025
+Realme;GT 7 Pro 733;342;16;256;48;4000;5.9;65;No;Android;A18 Pro;4.3;February;2025
+Samsung;Galaxy M55 67;638;16;256;50;6000;6.5;18;No;Android;Snapdragon 6 Gen 1;4;April;2025
+Apple;iPhone 16 Pro Max 945;715;12;1024;64;4000;5.9;18;Yes;iOS;Snapdragon 7+ Gen 2;3.6;April;2025
+Xiaomi;Mi 14 326;1057;8;128;48;4000;6.7;65;No;Android;Snapdragon 7+ Gen 2;4.7;May;2025
+OnePlus;OnePlus 13 675;437;12;128;64;4500;6.9;65;Yes;Android;Helio G99;4.3;August;2025
+Google;Pixel Fold 2 705;1103;4;64;108;6000;5.7;44;No;Android;Tensor G4;4.1;June;2025
+Realme;Narzo 70 451;1386;8;64;12;6000;6.4;100;Yes;Android;Tensor G4;3.9;August;2025
+Samsung;Galaxy M55 614;329;8;64;12;5500;5.9;44;No;Android;Helio G99;4.3;December;2025
+Oppo;Reno 11 416;953;16;512;64;6000;7.2;33;No;Android;Snapdragon 7+ Gen 2;4;March;2025
+Xiaomi;Poco X6 Pro 229;1427;12;128;50;5500;7.1;44;No;Android;Snapdragon 8 Gen 3;4;May;2025
+Google;Pixel 7a 421;1143;8;256;64;5500;7;120;No;Android;Exynos 2400;4.6;July;2025
+Samsung;Galaxy Z Fold6 472;815;12;64;48;6000;6.3;18;Yes;Android;Snapdragon 6 Gen 1;4.8;October;2025
+Xiaomi;Poco X6 Pro 613;254;4;64;48;6000;6.7;33;No;Android;A18 Pro;4.9;March;2025
+Xiaomi;Mi 13 Ultra 891;1236;4;128;64;6000;5.6;120;No;Android;Helio G99;4.7;August;2025
+Samsung;Galaxy Z Fold6 554;1049;4;1024;48;5500;6.1;18;Yes;Android;Snapdragon 8 Gen 3;4.8;March;2025
+OnePlus;OnePlus 12 820;168;6;64;64;5000;6;44;Yes;Android;Helio G99;3.6;November;2025
+Realme;GT 7 Pro 342;175;4;64;200;5500;5.8;44;No;Android;Snapdragon 6 Gen 1;4;June;2025
+Apple;iPhone 16 Pro 679;646;12;128;50;5000;6.8;120;No;iOS;Helio G99;3.6;December;2025
+Apple;iPhone 16 660;937;4;1024;12;6000;6.3;100;Yes;iOS;Helio G99;4.5;April;2025
+OnePlus;Nord 4 14;310;8;256;12;5000;7;120;Yes;Android;Exynos 2400;4.3;September;2025
+Google;Pixel 8 659;445;16;256;50;4000;6.1;33;No;Android;Snapdragon 8 Gen 3;4.2;November;2025
+Google;Pixel 7a 407;253;16;256;12;4500;6.7;120;Yes;Android;Tensor G4;4.4;May;2025
+Vivo;V30 278;1373;6;256;48;6000;7;33;Yes;Android;Snapdragon 7+ Gen 2;3.6;May;2025
+OnePlus;Nord CE 4 Lite 220;701;4;1024;200;5000;6;120;No;Android;Exynos 2400;3.8;March;2025
+Samsung;Galaxy S24 Ultra 298;748;6;256;50;4000;7;33;No;Android;Snapdragon 8 Gen 3;4.5;October;2025
+Apple;iPhone 16 Pro 875;703;4;64;200;5500;5.6;33;Yes;iOS;A18 Pro;4.7;April;2025
+Apple;iPhone 16 897;1273;6;512;12;4000;5.7;65;No;iOS;Dimensity 9300;4.7;January;2025
+Apple;iPhone 15 776;1210;16;64;50;5500;6.7;18;Yes;iOS;A18 Pro;4.2;April;2025
+Oppo;A98 242;1285;12;512;50;4000;6.3;18;No;Android;Dimensity 9300;4;November;2025
+Oppo;F27 Pro 537;880;12;512;50;4500;6.5;65;Yes;Android;Tensor G4;5;March;2025
+Infinix;Hot 40 177;1012;16;64;108;5500;5.7;18;No;Android;Snapdragon 7+ Gen 2;4.6;October;2025
+Vivo;Y200 221;1399;12;1024;48;6000;6.7;65;Yes;Android;Snapdragon 7+ Gen 2;4.9;January;2025
+Realme;C65 705;234;12;128;200;6000;6.3;100;Yes;Android;Helio G99;5;October;2025
+Vivo;V29e 705;701;6;128;108;4000;6.4;120;No;Android;Snapdragon 8 Gen 3;4.2;June;2025
+Oppo;Reno 11 52;760;16;128;12;6000;6.5;120;Yes;Android;A18 Pro;4;September;2025
+Infinix;Note 40 Pro 787;688;8;256;64;5000;5.7;18;Yes;Android;Snapdragon 6 Gen 1;3.7;October;2025
+OnePlus;Nord 4 508;1409;12;1024;48;5500;6.1;65;Yes;Android;Dimensity 9300;4.9;May;2025
+Samsung;Galaxy S24 Ultra 700;693;8;64;108;5000;5.5;33;No;Android;Snapdragon 7+ Gen 2;4;July;2025
+Realme;C65 212;882;6;1024;48;5500;6;65;No;Android;Dimensity 9300;4.7;September;2025
+Apple;iPhone 16 Pro Max 955;706;12;1024;64;4000;7.1;120;No;iOS;Helio G99;4.5;December;2025
+Infinix;GT 20 Pro 71;650;12;64;12;5500;6.2;44;No;Android;Helio G99;4.2;April;2025
+Google;Pixel 8 185;1340;6;64;200;4500;6;44;No;Android;Dimensity 9300;4.1;December;2025
+Samsung;Galaxy M55 851;540;4;128;108;5500;5.7;120;No;Android;Dimensity 9300;4;February;2025
+Infinix;Zero 30 344;513;16;256;64;4500;6.9;18;No;Android;Tensor G4;4.8;January;2025
+Google;Pixel 9 694;968;8;256;48;4500;5.7;33;No;Android;Dimensity 9300;4.3;April;2025
+Apple;iPhone 16 Pro 141;661;4;256;200;4000;6.5;120;Yes;iOS;Helio G99;4.5;December;2025
+Oppo;Reno 12 249;289;6;1024;12;6000;5.8;100;No;Android;Exynos 2400;4.4;January;2025
+Vivo;Y100A 168;1159;4;128;48;4000;7.1;44;No;Android;Exynos 2400;4;July;2025
+Realme;11 Pro+ 967;502;4;512;108;5500;6.4;100;Yes;Android;Snapdragon 6 Gen 1;3.8;March;2025
+OnePlus;OnePlus 13 206;137;6;64;48;4500;5.8;33;No;Android;Snapdragon 7+ Gen 2;3.7;October;2025
+Apple;iPhone 16 Pro Max 988;545;4;256;64;5000;5.7;44;Yes;iOS;Helio G99;3.8;July;2025
+Apple;iPhone 16 Pro 236;1460;12;64;200;6000;5.6;120;Yes;iOS;A18 Pro;4.4;July;2025
+Google;Pixel 9 Pro 43;491;12;128;64;5500;6;100;Yes;Android;Snapdragon 8 Gen 3;3.8;September;2025
+Infinix;Zero 30 410;551;6;256;50;4500;5.6;33;Yes;Android;Snapdragon 7+ Gen 2;4.2;January;2025
+Vivo;V30 209;416;16;128;48;5500;6.1;120;No;Android;Tensor G4;4.2;December;2025
+Google;Pixel 9 122;383;12;512;50;4500;6.4;18;No;Android;Tensor G4;5;November;2025
+Oppo;Find X7 302;1462;16;1024;200;5500;6.3;120;No;Android;Exynos 2400;3.7;January;2025
+Samsung;Galaxy S24 576;718;6;256;200;4000;5.5;100;No;Android;Snapdragon 8 Gen 3;3.7;November;2025
+Vivo;V29e 700;371;6;64;200;5500;5.7;100;Yes;Android;Snapdragon 6 Gen 1;3.6;January;2025
+Oppo;A98 506;1426;6;256;64;5000;6.6;44;Yes;Android;Snapdragon 8 Gen 3;4.3;August;2025
+Apple;iPhone 14 314;336;6;64;200;5000;5.6;33;No;iOS;Exynos 2400;3.6;April;2025
+Samsung;Galaxy M55 965;626;12;64;50;6000;6.6;33;No;Android;Dimensity 9300;4.3;January;2025
+Samsung;Galaxy M55 303;987;6;64;108;4000;6.3;18;Yes;Android;Exynos 2400;4.7;June;2025
+Vivo;Y100A 587;642;12;128;108;5000;6;120;Yes;Android;Snapdragon 6 Gen 1;3.5;April;2025
+Oppo;Find X7 464;785;6;64;50;5000;6.7;18;No;Android;Tensor G4;4.1;January;2025
+Realme;GT 7 Pro 556;1251;8;128;200;4000;6.7;18;No;Android;Tensor G4;3.9;July;2025
+Vivo;V30 541;611;4;64;12;5000;6.1;44;Yes;Android;Snapdragon 8 Gen 3;3.7;August;2025
+Google;Pixel 9 Pro 669;684;4;256;64;5000;7.2;33;No;Android;A18 Pro;4.2;June;2025
+Vivo;V30 861;546;6;64;50;4000;6.6;120;No;Android;Snapdragon 8 Gen 3;4.7;May;2025
+Vivo;V29e 581;166;16;128;12;5500;5.9;100;No;Android;Snapdragon 6 Gen 1;3.9;February;2025
+Realme;C65 479;723;12;128;200;4500;6.7;100;No;Android;Snapdragon 8 Gen 3;3.9;October;2025
+Oppo;Find X7 736;711;16;1024;200;4500;6.6;120;Yes;Android;Snapdragon 6 Gen 1;4.8;July;2025
+Samsung;Galaxy M55 229;837;6;1024;48;4000;6.7;18;No;Android;Helio G99;4;March;2025
+Xiaomi;Redmi Note 14 Pro 199;1295;12;64;50;4500;5.8;120;Yes;Android;Tensor G4;4.5;June;2025
+Apple;iPhone 16 Pro Max 629;1138;4;128;200;5000;6.2;65;Yes;iOS;Helio G99;3.5;July;2025
+Google;Pixel 9 64;1129;6;512;64;4500;6;33;No;Android;Snapdragon 8 Gen 3;4.4;July;2025
+Xiaomi;Mi 13 Ultra 791;1451;4;512;64;4000;7.2;65;No;Android;Snapdragon 8 Gen 3;4.8;March;2025
+Vivo;V30 770;1483;4;512;64;4000;6.6;120;No;Android;Exynos 2400;3.5;March;2025
+Vivo;X100 Pro 997;981;6;256;50;4500;5.8;33;No;Android;Tensor G4;3.8;July;2025
+Apple;iPhone 16 Pro 656;1466;12;256;108;4000;6.1;33;Yes;iOS;Snapdragon 7+ Gen 2;4.4;December;2025
+Xiaomi;Poco X6 Pro 195;577;8;1024;108;5500;6.3;100;No;Android;Tensor G4;3.6;October;2025
+OnePlus;Nord CE 4 Lite 860;1386;8;1024;108;6000;7.1;65;Yes;Android;Snapdragon 8 Gen 3;4.8;March;2025
+Infinix;Note 40 Pro 964;1435;4;512;50;5000;6.2;100;No;Android;A18 Pro;4.4;June;2025
+Oppo;Reno 11 869;884;8;128;50;5500;5.9;18;No;Android;Tensor G4;4.9;January;2025
+Vivo;Y100A 261;664;6;64;12;5500;5.6;18;Yes;Android;Tensor G4;3.7;July;2025
+Vivo;Y100A 136;654;4;512;12;6000;7;120;No;Android;Tensor G4;4.3;January;2025
+Xiaomi;Poco X6 Pro 816;899;4;1024;64;4500;5.9;18;Yes;Android;Dimensity 9300;4.2;September;2025
+Infinix;Smart 8 932;639;12;128;12;4000;5.5;18;Yes;Android;Snapdragon 7+ Gen 2;4.9;January;2025
+Realme;Narzo 70 153;779;4;64;48;5000;6.9;33;Yes;Android;Exynos 2400;4.5;August;2025
+OnePlus;OnePlus 13R 130;1365;6;128;50;5500;6.7;65;No;Android;Snapdragon 7+ Gen 2;3.6;December;2025
+Google;Pixel Fold 2 282;313;8;128;48;6000;5.5;65;No;Android;Helio G99;4.8;May;2025
+Xiaomi;Mi 13 Ultra 150;193;16;64;48;5500;6.6;65;Yes;Android;Exynos 2400;3.8;November;2025
+Xiaomi;Mi 14 649;1094;8;256;50;4000;6;65;No;Android;Snapdragon 7+ Gen 2;4.1;September;2025
+Infinix;Hot 40 763;1464;4;512;48;4000;6.9;18;Yes;Android;Exynos 2400;4;April;2025
+Infinix;GT 20 Pro 845;1223;8;256;48;5500;6.8;65;No;Android;Snapdragon 6 Gen 1;4.1;November;2025
+Vivo;X100 Pro 343;1048;6;256;48;4500;7;120;No;Android;Dimensity 9300;4.3;May;2025
+Vivo;Y200 500;1417;4;512;12;6000;6.4;44;Yes;Android;Dimensity 9300;4.8;July;2025
+Google;Pixel Fold 2 444;419;16;512;12;6000;6.3;100;No;Android;Snapdragon 7+ Gen 2;3.6;April;2025
+Vivo;Y100A 418;498;4;64;50;6000;6.5;18;Yes;Android;Helio G99;4.8;June;2025
+Infinix;Smart 8 968;852;16;64;64;5500;6.9;100;No;Android;A18 Pro;3.6;August;2025
+OnePlus;Nord 4 567;901;6;64;48;4000;5.7;120;No;Android;Tensor G4;4.2;November;2025
+Xiaomi;Redmi Note 14 Pro 348;927;8;128;64;6000;6.8;33;Yes;Android;Dimensity 9300;3.7;November;2025
+Xiaomi;Mi 14 928;521;4;128;200;5500;5.5;33;Yes;Android;Snapdragon 8 Gen 3;4.7;March;2025
+Samsung;Galaxy Z Fold6 52;900;12;128;200;5000;7.2;18;Yes;Android;A18 Pro;3.7;April;2025
+Google;Pixel 7a 315;980;16;512;48;6000;7.1;18;No;Android;Dimensity 9300;3.7;December;2025
+Vivo;V29e 376;1178;6;1024;12;6000;6.9;18;Yes;Android;Tensor G4;3.9;April;2025
+Realme;C65 862;795;8;512;50;5500;6.5;18;Yes;Android;Exynos 2400;4.8;March;2025
+Samsung;Galaxy M55 627;1436;16;128;50;4000;6.8;44;Yes;Android;Snapdragon 6 Gen 1;3.5;May;2025
+Oppo;A98 793;141;4;64;64;5500;6.4;33;No;Android;Tensor G4;3.9;August;2025
+OnePlus;OnePlus 13R 126;148;8;1024;200;5500;5.7;65;Yes;Android;Tensor G4;4.2;June;2025
+Infinix;Smart 8 143;1369;8;512;48;4000;5.6;100;Yes;Android;Helio G99;3.7;October;2025
+Vivo;V29e 398;410;8;512;12;5500;6;120;Yes;Android;Snapdragon 6 Gen 1;4.6;February;2025
+Vivo;Y100A 322;1315;8;256;48;4500;5.6;33;Yes;Android;Helio G99;5;August;2025
+Infinix;GT 20 Pro 916;298;6;64;64;5500;6.3;18;Yes;Android;Snapdragon 6 Gen 1;3.9;May;2025
+OnePlus;OnePlus 12 850;600;6;512;108;6000;5.9;100;Yes;Android;Snapdragon 7+ Gen 2;3.8;April;2025
+Xiaomi;Poco F6 102;963;12;128;200;6000;6.7;120;Yes;Android;Snapdragon 7+ Gen 2;3.9;April;2025
+Vivo;Y200 926;437;16;128;12;6000;6.6;120;Yes;Android;Snapdragon 8 Gen 3;4.6;May;2025
+Xiaomi;Redmi Note 14 Pro 631;239;4;256;12;6000;7;100;No;Android;Snapdragon 7+ Gen 2;4.4;February;2025
+Google;Pixel 8 615;531;6;1024;48;4000;5.5;44;Yes;Android;A18 Pro;3.6;March;2025
+Google;Pixel Fold 2 32;820;6;64;64;5500;6.9;65;Yes;Android;Helio G99;4.1;April;2025
+Xiaomi;Mi 13 Ultra 927;1021;4;128;108;5000;6.6;18;Yes;Android;Exynos 2400;4.1;April;2025
+Xiaomi;Redmi Note 14 Pro 941;320;4;128;108;6000;6.9;120;Yes;Android;Dimensity 9300;4.2;April;2025
+Oppo;A98 33;1286;6;1024;12;5500;5.8;120;Yes;Android;Exynos 2400;4.1;February;2025
+Apple;iPhone 15 744;126;6;1024;64;6000;5.5;100;No;iOS;Exynos 2400;4.7;April;2025
+Apple;iPhone 15 23;824;4;512;108;4500;5.6;44;Yes;iOS;Helio G99;4.8;July;2025
+Realme;GT 7 Pro 417;264;12;128;108;5500;5.7;33;Yes;Android;Tensor G4;3.9;October;2025
+OnePlus;Nord CE 4 Lite 559;151;12;512;108;5500;7.1;44;No;Android;A18 Pro;4.9;April;2025
+Infinix;GT 20 Pro 961;282;16;512;200;5000;6.9;18;No;Android;Tensor G4;3.9;March;2025
+OnePlus;OnePlus 12 975;1061;16;512;108;4000;6.1;100;No;Android;Snapdragon 6 Gen 1;3.6;August;2025
+Oppo;A98 197;1185;4;512;48;5500;7.1;18;Yes;Android;Exynos 2400;4.1;August;2025
+Oppo;F27 Pro 320;672;4;512;12;6000;6;44;No;Android;Snapdragon 8 Gen 3;3.7;July;2025
+Realme;11 Pro+ 320;317;12;512;50;5500;6.5;65;No;Android;Dimensity 9300;4.9;July;2025
+OnePlus;OnePlus 12 59;627;6;512;108;6000;5.9;33;No;Android;A18 Pro;4.8;May;2025
+Apple;iPhone 16 207;1369;4;128;64;6000;6.5;120;No;iOS;Helio G99;4.6;September;2025
+Xiaomi;Poco F6 767;1190;4;128;50;5500;5.5;33;No;Android;A18 Pro;4.8;March;2025
+OnePlus;OnePlus 12 296;898;6;512;64;5000;7;44;No;Android;Exynos 2400;5;February;2025
+Apple;iPhone 16 388;1284;6;64;50;4000;5.9;100;No;iOS;Snapdragon 6 Gen 1;4.1;November;2025
+Vivo;V30 189;699;4;64;200;5500;7.1;65;Yes;Android;Snapdragon 7+ Gen 2;4.8;July;2025
+OnePlus;OnePlus 12 909;291;12;64;50;6000;6.1;33;No;Android;Tensor G4;5;May;2025
+Infinix;GT 20 Pro 236;1021;16;512;50;6000;6.5;18;Yes;Android;Dimensity 9300;5;May;2025
+OnePlus;OnePlus 13 548;1279;16;64;12;4500;6.9;18;Yes;Android;Tensor G4;3.7;April;2025
+Oppo;Reno 12 284;691;8;1024;48;6000;5.6;44;Yes;Android;Snapdragon 7+ Gen 2;4.5;June;2025
+Samsung;Galaxy Z Fold6 335;811;8;128;200;6000;5.7;120;No;Android;Snapdragon 7+ Gen 2;3.6;May;2025
+Oppo;A98 334;1441;12;256;200;6000;6.9;44;No;Android;Tensor G4;4.5;June;2025
+Xiaomi;Mi 13 Ultra 539;1357;12;128;12;6000;6;65;No;Android;Snapdragon 8 Gen 3;4.8;August;2025
+OnePlus;OnePlus 12 611;184;12;1024;108;6000;7;65;No;Android;Snapdragon 6 Gen 1;3.6;July;2025
+Infinix;GT 20 Pro 983;596;12;256;12;5500;7;65;Yes;Android;Tensor G4;4.3;November;2025
+Google;Pixel 9 654;538;8;64;108;4000;6.9;120;Yes;Android;Snapdragon 8 Gen 3;4.4;April;2025
+Vivo;Y200 695;918;16;1024;200;4000;7.1;65;Yes;Android;Snapdragon 7+ Gen 2;4.4;March;2025
+Oppo;Reno 11 16;1008;16;512;48;6000;5.9;65;No;Android;Snapdragon 7+ Gen 2;4.3;February;2025
+Xiaomi;Mi 13 Ultra 967;997;12;1024;200;5000;5.5;18;No;Android;Snapdragon 7+ Gen 2;4.4;June;2025
+Realme;GT 7 Pro 938;1181;12;512;12;6000;5.8;33;No;Android;Snapdragon 6 Gen 1;4.9;May;2025
+Google;Pixel 9 Pro 47;141;8;128;108;4500;7;120;Yes;Android;Dimensity 9300;4.5;March;2025
+Oppo;A98 898;1322;8;256;12;6000;5.8;18;Yes;Android;Snapdragon 7+ Gen 2;3.8;June;2025
+Samsung;Galaxy M55 821;400;12;1024;108;6000;7.2;100;Yes;Android;Exynos 2400;3.8;December;2025
+Vivo;V30 973;488;4;512;48;5500;5.8;44;No;Android;Dimensity 9300;4.9;April;2025
+OnePlus;Nord 4 275;853;4;512;48;4500;6.3;18;No;Android;Snapdragon 6 Gen 1;4.7;November;2025
+Apple;iPhone 16 Pro 7;336;8;512;64;4500;6.3;120;Yes;iOS;Tensor G4;3.8;August;2025
+Infinix;GT 20 Pro 161;464;8;512;12;6000;6.6;120;Yes;Android;Tensor G4;4.5;March;2025
+Samsung;Galaxy S24 820;1498;16;512;50;5000;5.7;120;Yes;Android;Tensor G4;3.8;May;2025
+Samsung;Galaxy M55 841;278;8;128;200;4000;5.7;100;No;Android;Snapdragon 7+ Gen 2;4.8;January;2025
+Samsung;Galaxy Z Fold6 173;1215;4;256;12;4500;5.9;33;Yes;Android;Snapdragon 7+ Gen 2;4.4;February;2025
+Oppo;A98 582;1282;12;1024;200;5000;6.6;120;No;Android;Snapdragon 8 Gen 3;4;December;2025
+Xiaomi;Mi 13 Ultra 126;882;16;512;48;5500;5.9;65;Yes;Android;A18 Pro;4;March;2025
+Infinix;Zero 30 847;814;4;512;108;5000;7.2;44;No;Android;Exynos 2400;4.1;December;2025
+Vivo;V29e 888;820;4;512;108;4500;6.3;33;Yes;Android;Snapdragon 6 Gen 1;3.7;April;2025
+Samsung;Galaxy S24 Ultra 974;1381;4;64;48;5500;5.6;100;No;Android;Snapdragon 6 Gen 1;3.8;February;2025
+Infinix;GT 20 Pro 896;429;4;128;108;4500;6.9;100;Yes;Android;Snapdragon 6 Gen 1;4.2;February;2025
+Infinix;Zero 30 436;808;12;64;200;5000;7.1;44;Yes;Android;Helio G99;4.8;January;2025
+Apple;iPhone 16 826;492;12;64;12;4500;6.6;33;No;iOS;Snapdragon 6 Gen 1;4.1;September;2025
+Realme;Narzo 70 772;1150;4;128;50;4000;5.7;100;Yes;Android;Snapdragon 8 Gen 3;3.8;July;2025
+Oppo;Find X7 753;492;16;256;200;4000;6.3;18;Yes;Android;Exynos 2400;4;April;2025
+Google;Pixel 9 Pro 537;1337;6;128;200;4000;5.9;100;Yes;Android;Snapdragon 7+ Gen 2;3.5;January;2025
+Vivo;V29e 816;1220;16;512;12;5500;5.7;100;Yes;Android;Dimensity 9300;3.9;April;2025
+Oppo;Reno 12 293;567;6;128;108;5000;6.8;100;Yes;Android;Snapdragon 8 Gen 3;5;October;2025
+Realme;GT Neo 6 43;1044;16;1024;64;6000;6.9;33;No;Android;Tensor G4;4.7;November;2025
+Apple;iPhone 16 Pro 887;1204;4;128;200;4500;6.4;100;Yes;iOS;Helio G99;3.8;February;2025
+Xiaomi;Mi 14 617;1363;16;1024;50;4000;6.7;100;No;Android;Snapdragon 8 Gen 3;4.8;February;2025
+Vivo;X100 Pro 935;1495;6;64;64;5000;5.6;18;Yes;Android;Snapdragon 8 Gen 3;4.9;April;2025
+Vivo;Y200 311;497;4;128;12;4000;6.5;65;No;Android;Dimensity 9300;4.3;September;2025
+Apple;iPhone 16 Pro Max 228;933;8;1024;48;5500;5.7;65;Yes;iOS;Helio G99;3.7;August;2025
+Samsung;Galaxy M55 741;729;6;128;12;5500;7.1;65;Yes;Android;Helio G99;4.9;July;2025
+Samsung;Galaxy Z Fold6 711;1189;16;256;64;6000;6.4;44;Yes;Android;A18 Pro;3.7;March;2025
+Google;Pixel 8 418;1278;4;1024;64;6000;5.5;65;No;Android;Tensor G4;4.2;October;2025
+OnePlus;OnePlus 13 841;1292;8;512;48;5500;7;33;No;Android;Snapdragon 8 Gen 3;4.5;January;2025
+Infinix;Hot 40 120;548;4;512;50;4500;7.2;100;Yes;Android;Exynos 2400;4.4;August;2025
+Apple;iPhone 14 358;818;4;64;48;4000;7.1;33;No;iOS;Tensor G4;5;December;2025
+Realme;11 Pro+ 590;809;12;64;48;4000;6.2;65;No;Android;A18 Pro;4;July;2025
+Vivo;Y100A 23;1218;16;256;48;5000;6.8;65;Yes;Android;Snapdragon 6 Gen 1;3.5;April;2025
+Vivo;V30 78;823;6;512;108;4000;6;33;No;Android;A18 Pro;4;March;2025
+Samsung;Galaxy S24 554;898;12;128;12;6000;6.3;44;No;Android;Dimensity 9300;4.9;April;2025
+Realme;C65 518;857;8;512;12;4000;6.1;65;No;Android;Snapdragon 8 Gen 3;3.9;June;2025
+OnePlus;Nord CE 4 Lite 98;1064;6;512;200;6000;6;100;No;Android;Tensor G4;4.4;December;2025
+Google;Pixel 7a 684;1426;4;64;108;5000;6.6;100;No;Android;A18 Pro;5;December;2025
+Apple;iPhone 14 585;715;4;128;200;4000;6.1;100;Yes;iOS;Exynos 2400;4.9;May;2025
+Xiaomi;Mi 14 308;1038;12;64;12;5500;5.8;100;Yes;Android;Exynos 2400;3.9;January;2025
+Google;Pixel Fold 2 357;670;16;64;64;5500;6.1;120;Yes;Android;Snapdragon 8 Gen 3;4.8;February;2025
+Infinix;Note 40 Pro 173;825;12;128;12;4500;6;44;No;Android;Dimensity 9300;4.8;July;2025
+Google;Pixel 9 125;1300;16;256;64;4000;6.9;65;No;Android;Dimensity 9300;3.7;September;2025
+Google;Pixel 9 Pro 793;966;4;512;64;6000;6.8;44;No;Android;A18 Pro;4;December;2025
+Realme;GT Neo 6 840;1317;6;512;50;5500;6.2;65;Yes;Android;Helio G99;4.7;August;2025
+Xiaomi;Poco F6 298;1255;6;64;200;5000;6.6;100;Yes;Android;Snapdragon 8 Gen 3;4.1;September;2025
+Samsung;Galaxy A75 456;1034;16;64;48;6000;6.1;18;No;Android;Snapdragon 8 Gen 3;4;January;2025
+OnePlus;OnePlus 12 505;299;12;512;50;4000;6.5;65;Yes;Android;Helio G99;4.6;July;2025
+Realme;Narzo 70 166;1042;6;256;64;6000;6.5;120;Yes;Android;Snapdragon 6 Gen 1;4.7;November;2025
+Vivo;Y100A 296;1165;6;64;48;4500;6.2;65;Yes;Android;Snapdragon 6 Gen 1;3.7;November;2025
+Google;Pixel 8 114;1139;12;128;50;5500;6.2;120;No;Android;Exynos 2400;4.8;June;2025
+Vivo;V29e 794;151;6;512;108;4500;6.1;100;No;Android;Snapdragon 8 Gen 3;3.6;June;2025
+Realme;C65 744;830;4;512;48;4500;6.8;120;No;Android;Snapdragon 8 Gen 3;5;September;2025
+Oppo;A98 681;166;8;64;12;6000;6.4;65;Yes;Android;Tensor G4;3.7;August;2025
+Infinix;GT 20 Pro 156;858;4;256;200;6000;7;100;Yes;Android;Dimensity 9300;4.4;June;2025
+Infinix;Zero 30 598;318;6;64;50;4500;5.7;44;Yes;Android;Snapdragon 6 Gen 1;3.8;November;2025
+Vivo;X100 Pro 598;773;12;128;12;4000;7.2;65;Yes;Android;Snapdragon 6 Gen 1;4.1;January;2025
+Samsung;Galaxy A75 923;1199;12;256;12;6000;6.1;100;Yes;Android;Dimensity 9300;3.5;June;2025
+Realme;11 Pro+ 753;1274;6;1024;64;4000;6.8;44;Yes;Android;A18 Pro;4.3;February;2025
+Infinix;Note 40 Pro 754;736;6;256;50;6000;6;100;No;Android;Helio G99;4.9;April;2025
+Google;Pixel 8 153;920;4;256;200;4000;5.5;18;Yes;Android;Helio G99;3.5;April;2025
+Apple;iPhone 14 545;497;4;128;50;4500;5.9;33;Yes;iOS;Snapdragon 7+ Gen 2;3.8;October;2025
+Google;Pixel 8 349;1397;6;64;48;4000;5.6;100;Yes;Android;Snapdragon 8 Gen 3;4.8;April;2025
+Google;Pixel 7a 566;983;4;512;50;5000;6.8;100;Yes;Android;Dimensity 9300;4;January;2025
+Realme;GT 7 Pro 653;471;16;256;200;5000;7.1;44;Yes;Android;Dimensity 9300;3.7;March;2025
+Google;Pixel Fold 2 280;947;6;128;12;6000;7.2;120;No;Android;Exynos 2400;4.2;July;2025
+Samsung;Galaxy Z Fold6 943;230;6;256;108;4500;6.4;33;No;Android;Tensor G4;3.7;April;2025
+Samsung;Galaxy A75 349;753;12;1024;48;6000;7.1;65;Yes;Android;Dimensity 9300;3.6;February;2025
+OnePlus;OnePlus 12 388;118;8;64;48;6000;6.2;44;Yes;Android;Snapdragon 8 Gen 3;4.6;April;2025
+OnePlus;OnePlus 12 33;926;4;256;12;4500;6.9;44;No;Android;Exynos 2400;4.2;August;2025
+Vivo;X100 Pro 228;112;16;512;12;4500;6.7;33;Yes;Android;Tensor G4;4.5;March;2025
+Realme;C65 668;298;16;128;12;4000;6.1;44;No;Android;Snapdragon 6 Gen 1;4.5;July;2025
+Google;Pixel 7a 237;1080;8;1024;12;4500;6.7;120;No;Android;Helio G99;4.5;October;2025
+Realme;GT 7 Pro 9;634;8;64;12;4000;6.9;65;Yes;Android;Helio G99;4.4;October;2025
+Apple;iPhone 16 Pro Max 449;727;12;512;64;5000;6.9;65;No;iOS;Helio G99;3.8;July;2025
+Vivo;V29e 185;126;12;512;200;4000;5.6;18;Yes;Android;Helio G99;3.7;April;2025
+Xiaomi;Redmi Note 14 Pro 931;380;8;64;48;5000;7.2;65;Yes;Android;Tensor G4;4.5;July;2025
+Vivo;Y100A 461;926;4;1024;12;4000;6.2;18;Yes;Android;Snapdragon 7+ Gen 2;3.6;November;2025
+Vivo;X100 Pro 34;1325;6;1024;200;5500;6.9;100;No;Android;Helio G99;3.8;April;2025
+Realme;Narzo 70 451;502;12;64;108;4500;6.2;65;No;Android;Exynos 2400;5;October;2025
+Google;Pixel 7a 892;501;12;128;48;5000;6.8;44;No;Android;Snapdragon 6 Gen 1;3.7;October;2025
+Realme;GT 7 Pro 979;631;4;128;48;5500;6;65;Yes;Android;Snapdragon 6 Gen 1;4.1;March;2025
+Oppo;Reno 11 294;770;12;1024;12;4500;5.9;120;No;Android;Snapdragon 7+ Gen 2;3.9;February;2025
+OnePlus;Nord CE 4 Lite 708;1414;8;64;48;5500;6;100;No;Android;A18 Pro;4.6;March;2025
+Samsung;Galaxy M55 902;281;12;256;50;6000;6.4;18;No;Android;Snapdragon 7+ Gen 2;3.9;December;2025
+Apple;iPhone 15 98;1403;12;256;12;4500;6.1;33;Yes;iOS;Snapdragon 7+ Gen 2;3.7;June;2025
+Google;Pixel 9 Pro 616;709;12;512;108;5000;5.7;33;Yes;Android;A18 Pro;3.6;June;2025
+Oppo;Reno 12 303;545;4;128;200;4000;7;65;No;Android;Snapdragon 8 Gen 3;3.7;March;2025
+OnePlus;OnePlus 13R 331;909;8;256;12;5500;5.9;44;No;Android;A18 Pro;3.9;February;2025
+Apple;iPhone 16 Pro Max 355;1020;8;64;108;6000;6.2;33;Yes;iOS;Snapdragon 6 Gen 1;4.4;February;2025
+Xiaomi;Mi 14 105;1231;4;128;50;6000;6.5;33;No;Android;Exynos 2400;4;March;2025
+Google;Pixel 9 Pro 475;969;16;256;108;6000;6.8;120;No;Android;Snapdragon 7+ Gen 2;4.6;January;2025
+Samsung;Galaxy M55 365;447;16;512;48;5500;6.2;65;Yes;Android;Snapdragon 8 Gen 3;4.4;December;2025
+Infinix;Hot 40 779;1088;16;64;12;6000;6.5;33;Yes;Android;Exynos 2400;4.1;February;2025
+Realme;11 Pro+ 210;910;6;512;108;5000;6.8;44;Yes;Android;Snapdragon 8 Gen 3;3.9;February;2025
+Realme;GT Neo 6 365;1072;6;1024;108;6000;6.3;100;No;Android;Tensor G4;4.2;March;2025
+Xiaomi;Poco X6 Pro 913;1062;12;256;12;5000;6.6;33;No;Android;A18 Pro;4.1;February;2025
+Google;Pixel 8 951;761;4;64;200;6000;6.2;65;Yes;Android;Helio G99;3.5;July;2025
+Oppo;F27 Pro 149;933;4;512;108;4500;5.9;18;No;Android;Snapdragon 6 Gen 1;4.5;February;2025
+Samsung;Galaxy S24 Ultra 657;349;16;64;200;4000;6.5;120;Yes;Android;Snapdragon 6 Gen 1;4.5;May;2025
+OnePlus;OnePlus 12 258;665;6;1024;48;6000;6.9;18;No;Android;Exynos 2400;4.4;September;2025
+Vivo;X100 Pro 548;582;6;64;12;5000;7;100;No;Android;Snapdragon 8 Gen 3;4.3;July;2025
+OnePlus;OnePlus 13 88;883;16;1024;64;6000;5.7;100;No;Android;Snapdragon 6 Gen 1;4.3;April;2025
+Samsung;Galaxy M55 856;896;16;1024;108;4000;6.7;65;No;Android;Snapdragon 7+ Gen 2;4.6;April;2025
+Realme;11 Pro+ 935;984;16;512;50;5500;6.2;18;No;Android;Exynos 2400;3.6;December;2025
+Google;Pixel 8 180;777;8;128;50;6000;7.1;120;No;Android;Dimensity 9300;3.6;September;2025
+Google;Pixel 7a 380;1427;4;128;200;5000;6.9;33;Yes;Android;Dimensity 9300;3.8;January;2025
+Xiaomi;Mi 14 542;951;16;256;108;4000;6;44;No;Android;Snapdragon 6 Gen 1;4.8;May;2025
+Apple;iPhone 16 Pro 518;1043;4;1024;200;5500;5.6;65;No;iOS;Exynos 2400;4.3;August;2025
+OnePlus;OnePlus 12 687;1483;12;512;50;5500;7;65;Yes;Android;Helio G99;4.1;April;2025
+Realme;Narzo 70 742;1249;4;512;108;6000;5.6;65;Yes;Android;Snapdragon 7+ Gen 2;4.7;June;2025
+Apple;iPhone 14 583;1291;16;1024;64;4500;6.8;100;Yes;iOS;Dimensity 9300;3.9;November;2025
+Vivo;V30 561;1206;16;64;200;4000;6.6;18;Yes;Android;Helio G99;4;July;2025
+Oppo;Reno 11 621;1225;16;1024;108;4000;6;65;Yes;Android;Helio G99;3.7;April;2025
+Apple;iPhone 16 Pro Max 419;1275;12;1024;50;4500;5.9;100;No;iOS;A18 Pro;3.7;May;2025
+Oppo;Find X7 856;635;8;512;200;5000;6;65;No;Android;Snapdragon 7+ Gen 2;4;April;2025
+Realme;GT 7 Pro 5;1080;12;64;200;4000;5.9;65;No;Android;Snapdragon 6 Gen 1;4.8;July;2025
+Realme;GT Neo 6 297;1147;16;256;50;5500;5.9;33;Yes;Android;Dimensity 9300;3.9;February;2025
+Apple;iPhone 16 384;1100;4;128;64;5500;6.1;44;Yes;iOS;Snapdragon 7+ Gen 2;3.7;January;2025
+Oppo;Find X7 82;730;8;128;108;4000;5.7;65;No;Android;Helio G99;3.9;September;2025
+Oppo;Reno 11 68;892;4;1024;12;4500;6.7;100;Yes;Android;Exynos 2400;4.7;November;2025
+Xiaomi;Poco X6 Pro 676;230;6;1024;64;4000;7;100;No;Android;Exynos 2400;4.2;May;2025
+Oppo;A98 926;820;4;1024;108;5000;6.4;44;No;Android;Tensor G4;3.7;July;2025
+OnePlus;OnePlus 13 863;830;16;64;48;6000;5.6;33;Yes;Android;Snapdragon 8 Gen 3;4.2;November;2025
+Google;Pixel 9 Pro 314;131;4;1024;200;6000;6.6;18;Yes;Android;Tensor G4;4;July;2025
+Google;Pixel 7a 786;1458;12;128;200;5500;6.7;18;No;Android;Snapdragon 8 Gen 3;4.4;May;2025
+Oppo;Reno 12 328;875;4;64;48;4000;7.2;33;No;Android;Tensor G4;3.8;April;2025
+Oppo;F27 Pro 521;1479;6;256;200;5000;5.9;33;No;Android;A18 Pro;4.3;July;2025
+Samsung;Galaxy A75 29;375;12;512;50;5000;7;120;No;Android;Exynos 2400;4.4;May;2025
+Apple;iPhone 16 Pro 166;1109;12;128;12;5500;6.6;65;No;iOS;Dimensity 9300;3.6;August;2025
+OnePlus;OnePlus 13R 774;1303;4;512;108;5500;6.6;65;Yes;Android;Snapdragon 8 Gen 3;3.8;January;2025
+Oppo;Find X7 463;413;6;64;200;4000;7;65;Yes;Android;Exynos 2400;4.4;April;2025
+Infinix;GT 20 Pro 122;836;12;128;50;6000;6.8;33;Yes;Android;Tensor G4;5;May;2025
+Google;Pixel 9 Pro 740;1127;12;512;50;4000;6.5;33;No;Android;A18 Pro;3.6;August;2025
+Infinix;Hot 40 445;533;4;512;200;5000;6.5;120;Yes;Android;Exynos 2400;4.7;May;2025
+Apple;iPhone 15 723;170;6;512;48;5500;6.6;18;Yes;iOS;Exynos 2400;4.9;December;2025
+Google;Pixel 8 580;520;8;512;108;4500;6.7;65;Yes;Android;Snapdragon 6 Gen 1;3.9;August;2025
+Samsung;Galaxy Z Fold6 603;419;4;128;64;6000;7.1;65;Yes;Android;Tensor G4;4.9;April;2025
+Xiaomi;Redmi Note 14 Pro 171;1475;8;256;108;5500;6.7;100;Yes;Android;Tensor G4;4.5;November;2025
+Samsung;Galaxy A75 281;699;6;512;50;4500;5.9;33;Yes;Android;A18 Pro;4.8;November;2025
+Infinix;Smart 8 912;1019;4;256;200;6000;6.8;18;No;Android;Snapdragon 8 Gen 3;3.6;April;2025
+Xiaomi;Mi 13 Ultra 916;1436;8;256;64;4000;6.1;33;No;Android;Snapdragon 7+ Gen 2;3.5;February;2025
+Oppo;Find X7 378;1391;8;256;50;5500;6.9;65;No;Android;Dimensity 9300;4.8;March;2025
+Xiaomi;Poco X6 Pro 955;1277;8;64;108;5000;7;44;No;Android;Snapdragon 8 Gen 3;4.2;July;2025
+Google;Pixel 7a 59;122;4;64;200;6000;6.7;18;No;Android;Tensor G4;5;September;2025
+Oppo;Reno 11 550;1261;16;512;50;5500;6.3;65;Yes;Android;A18 Pro;3.9;August;2025
+Oppo;Find X7 500;186;8;512;48;6000;6.9;120;Yes;Android;Tensor G4;3.6;April;2025
+Infinix;GT 20 Pro 113;1166;12;256;108;5000;7;65;Yes;Android;Snapdragon 6 Gen 1;4.9;April;2025
+Samsung;Galaxy S24 Ultra 69;482;12;128;50;4500;6.6;18;No;Android;Exynos 2400;4;November;2025
+Oppo;Reno 12 352;948;4;1024;12;5500;5.9;120;No;Android;A18 Pro;4.4;July;2025
+Samsung;Galaxy M55 301;899;16;128;64;6000;5.9;18;Yes;Android;Snapdragon 6 Gen 1;3.9;March;2025
+Vivo;X100 Pro 684;895;4;128;48;5000;7;65;Yes;Android;Snapdragon 6 Gen 1;4.6;February;2025
+Vivo;X100 Pro 76;1210;12;512;108;5500;5.9;120;Yes;Android;Snapdragon 8 Gen 3;4.2;October;2025
+Google;Pixel 9 671;664;8;64;50;4000;6.8;18;Yes;Android;Helio G99;4.4;February;2025
+Apple;iPhone 16 Pro Max 117;1186;8;512;200;4000;6.5;18;No;iOS;Exynos 2400;3.9;February;2025
+Oppo;Find X7 240;202;4;128;48;5500;5.9;65;No;Android;Helio G99;3.7;December;2025
+Google;Pixel 8 16;138;16;64;50;4000;6.3;44;Yes;Android;A18 Pro;3.7;March;2025
+Infinix;GT 20 Pro 695;1294;8;256;64;4000;5.5;65;No;Android;Snapdragon 7+ Gen 2;5;March;2025
+Apple;iPhone 16 Pro Max 11;602;6;512;108;4500;6.9;65;No;iOS;Dimensity 9300;4.4;June;2025
+Apple;iPhone 16 Pro Max 409;383;16;1024;64;5500;6.7;44;Yes;iOS;Snapdragon 7+ Gen 2;3.6;August;2025
+OnePlus;Nord 4 500;491;4;256;48;4000;7.2;100;No;Android;Snapdragon 6 Gen 1;3.6;October;2025
+Oppo;F27 Pro 139;1064;12;1024;108;5000;6.7;120;Yes;Android;Exynos 2400;4.1;October;2025
+Infinix;Note 40 Pro 876;109;4;1024;108;4500;7.1;100;No;Android;Exynos 2400;3.8;October;2025
+Vivo;X100 Pro 55;312;8;512;64;5500;6.7;44;Yes;Android;Snapdragon 6 Gen 1;4.7;January;2025
+Apple;iPhone 16 27;1163;12;128;108;6000;5.5;120;No;iOS;Tensor G4;4.4;June;2025
+Realme;C65 269;834;16;128;50;5000;6.2;33;Yes;Android;Dimensity 9300;4.6;April;2025
+OnePlus;OnePlus 13 578;1283;4;64;200;5500;7;33;No;Android;Helio G99;4.9;February;2025
+Infinix;GT 20 Pro 749;1466;4;1024;108;4500;6.9;120;No;Android;Snapdragon 7+ Gen 2;3.8;November;2025
+Vivo;V29e 936;984;16;256;200;4500;6.8;44;Yes;Android;Snapdragon 6 Gen 1;4.9;August;2025
+Google;Pixel 7a 526;707;12;64;200;5000;6.9;18;Yes;Android;Snapdragon 8 Gen 3;4.8;May;2025
+Google;Pixel 9 Pro 117;121;4;512;48;5000;6.7;44;No;Android;A18 Pro;4.3;April;2025
+OnePlus;OnePlus 13R 542;1471;16;64;108;5500;6.6;65;No;Android;Snapdragon 7+ Gen 2;3.6;October;2025
+OnePlus;Nord CE 4 Lite 541;923;8;128;64;5000;5.9;44;No;Android;Exynos 2400;3.9;August;2025
+Apple;iPhone 16 Pro 894;1371;16;128;64;4500;7;65;No;iOS;Helio G99;4.1;October;2025
+Vivo;Y100A 981;779;6;512;64;4500;6.7;120;Yes;Android;Helio G99;4.4;October;2025
+Oppo;F27 Pro 171;209;16;64;200;5000;6.1;65;No;Android;Dimensity 9300;4.2;October;2025
+Oppo;Reno 11 954;1444;4;256;12;4500;7;65;Yes;Android;Tensor G4;4.3;December;2025
+Xiaomi;Mi 14 154;1079;12;128;108;6000;6.6;65;Yes;Android;Helio G99;3.6;July;2025
+Vivo;Y100A 298;404;8;1024;50;5000;7;120;Yes;Android;Helio G99;4.1;September;2025
+Google;Pixel 9 187;1019;8;1024;50;5500;6.2;120;No;Android;Dimensity 9300;4.1;September;2025
+Oppo;F27 Pro 169;1050;6;64;48;4000;6.6;44;No;Android;Helio G99;3.9;April;2025
+Infinix;GT 20 Pro 47;1221;6;512;48;4500;7;33;Yes;Android;Snapdragon 8 Gen 3;3.9;June;2025
+OnePlus;Nord CE 4 Lite 619;1121;8;128;200;4500;6.7;100;No;Android;A18 Pro;3.8;September;2025
+Infinix;Note 40 Pro 692;586;16;128;48;4000;7.1;120;Yes;Android;Exynos 2400;3.6;September;2025
+Oppo;Reno 12 386;1209;16;512;200;4000;6.7;120;Yes;Android;Exynos 2400;3.7;September;2025
+Xiaomi;Mi 13 Ultra 367;302;8;64;50;5500;7;65;Yes;Android;Tensor G4;4.8;November;2025
+Vivo;X100 Pro 903;1345;16;512;200;4500;6.7;120;No;Android;Exynos 2400;4.6;September;2025
+Samsung;Galaxy S24 630;1109;4;64;108;6000;6.1;120;Yes;Android;A18 Pro;3.9;March;2025
+Samsung;Galaxy A75 442;165;12;64;50;6000;6.5;65;Yes;Android;Snapdragon 6 Gen 1;4.1;June;2025
+OnePlus;OnePlus 13 132;1186;8;1024;200;4500;6.2;44;No;Android;Tensor G4;4.3;July;2025
+Google;Pixel 9 917;821;6;512;200;5500;6.3;100;No;Android;Snapdragon 6 Gen 1;3.6;September;2025
+Realme;GT 7 Pro 870;1379;4;512;48;5500;7;65;Yes;Android;Helio G99;3.7;April;2025
+Oppo;F27 Pro 789;1085;4;512;48;4000;6.1;18;Yes;Android;A18 Pro;4.7;December;2025
+Xiaomi;Mi 14 209;1255;4;512;50;5500;6;18;Yes;Android;Exynos 2400;4;January;2025
+Infinix;Zero 30 763;359;8;512;200;4500;6.1;18;No;Android;Snapdragon 7+ Gen 2;4.1;June;2025
+Google;Pixel 9 348;474;12;256;12;5000;7.2;120;Yes;Android;Snapdragon 8 Gen 3;3.9;July;2025
+Realme;11 Pro+ 904;1296;6;512;108;4500;6.7;33;Yes;Android;Dimensity 9300;4.8;April;2025
+Google;Pixel Fold 2 954;355;8;64;50;4500;6.8;33;No;Android;Snapdragon 8 Gen 3;3.9;November;2025
+Samsung;Galaxy M55 840;1435;12;128;64;6000;7;100;Yes;Android;A18 Pro;4.8;November;2025
+Vivo;V29e 522;1146;12;128;108;5000;6.8;33;Yes;Android;Helio G99;4.3;December;2025
+Apple;iPhone 16 612;1163;4;512;64;4000;6.7;65;No;iOS;Snapdragon 7+ Gen 2;4.3;August;2025
+Xiaomi;Mi 13 Ultra 5;884;4;1024;50;6000;6.5;100;Yes;Android;Tensor G4;3.6;October;2025
+Google;Pixel 8 989;121;4;128;64;5000;6.4;100;No;Android;Snapdragon 6 Gen 1;3.5;June;2025
+Realme;Narzo 70 716;231;16;256;200;5500;5.7;65;Yes;Android;Dimensity 9300;4.3;July;2025
+Vivo;V29e 40;427;8;512;48;5000;5.8;100;No;Android;A18 Pro;3.8;July;2025
+Xiaomi;Mi 13 Ultra 839;928;4;512;200;4500;6.8;120;Yes;Android;Helio G99;4.9;July;2025
+Apple;iPhone 15 620;225;4;1024;48;5000;7.2;65;Yes;iOS;Snapdragon 8 Gen 3;3.9;October;2025
+Google;Pixel 7a 498;889;4;1024;50;5500;6.5;100;Yes;Android;A18 Pro;4.2;April;2025
+Realme;GT Neo 6 821;881;16;64;200;6000;5.7;18;No;Android;Exynos 2400;4.2;July;2025
+Google;Pixel 9 21;402;12;1024;48;6000;5.8;120;Yes;Android;Snapdragon 8 Gen 3;4.3;May;2025
+Realme;GT Neo 6 449;1334;4;128;108;4000;6;44;Yes;Android;Tensor G4;3.7;July;2025
+Apple;iPhone 16 Pro 89;151;8;128;108;5500;6.3;44;Yes;iOS;Dimensity 9300;4.7;June;2025
+Samsung;Galaxy S24 Ultra 469;218;12;256;108;4500;6.6;65;No;Android;Snapdragon 7+ Gen 2;4.4;June;2025
+Xiaomi;Mi 14 62;1309;12;256;50;5000;6.4;65;Yes;Android;Snapdragon 8 Gen 3;4.2;December;2025
+Vivo;V30 87;210;12;128;64;6000;6.6;18;Yes;Android;Exynos 2400;3.9;February;2025
+Realme;Narzo 70 335;179;8;512;108;5500;5.6;44;Yes;Android;Snapdragon 8 Gen 3;4.2;August;2025
+Realme;GT 7 Pro 522;1271;12;64;48;5500;6.7;100;No;Android;Exynos 2400;5;March;2025
+Apple;iPhone 15 752;922;4;1024;108;5500;7;65;No;iOS;Snapdragon 7+ Gen 2;4.4;November;2025
+OnePlus;Nord 4 794;833;12;256;108;5500;6.7;44;Yes;Android;Snapdragon 7+ Gen 2;5;April;2025
+OnePlus;Nord CE 4 Lite 147;1234;8;512;48;4000;6.2;100;No;Android;Snapdragon 8 Gen 3;4.9;September;2025
+Vivo;Y200 244;1397;6;128;48;6000;5.8;18;Yes;Android;Snapdragon 8 Gen 3;3.7;May;2025
+Apple;iPhone 16 Pro 231;183;8;128;64;6000;7.2;120;Yes;iOS;Snapdragon 6 Gen 1;4.3;July;2025
+Apple;iPhone 14 43;1058;6;64;48;5000;6.8;44;No;iOS;Snapdragon 8 Gen 3;3.5;July;2025
+Realme;Narzo 70 406;1320;6;64;50;4000;6.9;18;Yes;Android;Helio G99;3.7;February;2025
+Samsung;Galaxy S24 Ultra 403;655;16;128;64;5000;6.9;33;No;Android;Snapdragon 8 Gen 3;4.8;December;2025
+Vivo;V30 731;210;4;512;64;5000;6.2;44;Yes;Android;Tensor G4;3.9;December;2025
+Apple;iPhone 16 Pro 238;873;6;256;50;6000;6;33;Yes;iOS;A18 Pro;4.8;April;2025
+Xiaomi;Redmi Note 14 Pro 811;377;6;128;50;5500;7;44;Yes;Android;Dimensity 9300;4.3;July;2025
+OnePlus;Nord CE 4 Lite 268;897;6;128;200;6000;6;100;No;Android;Snapdragon 7+ Gen 2;4.8;June;2025
+OnePlus;Nord CE 4 Lite 608;644;4;512;48;6000;6.2;33;No;Android;Snapdragon 7+ Gen 2;4.7;June;2025
+Infinix;GT 20 Pro 529;297;4;1024;108;4500;6;120;Yes;Android;Helio G99;4;January;2025
+Vivo;X100 Pro 537;189;8;512;12;5000;6.8;18;No;Android;Dimensity 9300;4.1;December;2025
+Samsung;Galaxy S24 216;311;4;512;108;5500;6.6;120;No;Android;Tensor G4;4.1;December;2025
+Samsung;Galaxy Z Fold6 168;439;6;256;108;5500;5.9;33;Yes;Android;Helio G99;4.6;September;2025
+Oppo;F27 Pro 502;1498;6;512;12;5000;6.6;65;Yes;Android;A18 Pro;4.7;September;2025
+Xiaomi;Poco X6 Pro 224;460;16;128;12;4500;6.4;44;No;Android;Snapdragon 6 Gen 1;4.3;May;2025
+Vivo;X100 Pro 84;638;6;64;48;6000;7.2;18;Yes;Android;Helio G99;4;October;2025
+Oppo;Reno 11 674;197;8;256;64;4500;6.9;120;No;Android;A18 Pro;4.5;February;2025
+Samsung;Galaxy S24 Ultra 700;1349;12;1024;200;5500;5.9;100;Yes;Android;Dimensity 9300;5;May;2025
+Samsung;Galaxy Z Fold6 921;774;4;128;200;6000;6.4;33;No;Android;Tensor G4;4.7;February;2025
+Realme;11 Pro+ 103;1351;12;512;200;6000;6.5;65;Yes;Android;Tensor G4;4.6;December;2025
+Infinix;Zero 30 566;1410;4;128;64;4000;7.1;18;Yes;Android;Snapdragon 7+ Gen 2;4.4;November;2025
+Infinix;Smart 8 259;182;6;128;48;5000;5.6;65;Yes;Android;Snapdragon 8 Gen 3;5;September;2025
+Apple;iPhone 15 867;1433;8;512;200;4000;6.4;100;No;iOS;Exynos 2400;4.9;September;2025
+Realme;Narzo 70 169;1111;6;256;64;5000;6.4;44;No;Android;Helio G99;4.4;September;2025
+Google;Pixel 9 Pro 649;356;6;512;108;4500;6.5;33;No;Android;Dimensity 9300;4;January;2025
+Apple;iPhone 16 982;405;8;1024;50;5500;5.8;44;Yes;iOS;Tensor G4;3.7;March;2025
+Samsung;Galaxy S24 591;1343;6;64;50;4500;5.9;18;Yes;Android;Snapdragon 6 Gen 1;4.3;August;2025
+Vivo;V29e 415;640;8;64;64;6000;6.4;100;No;Android;Snapdragon 7+ Gen 2;3.6;June;2025
+Infinix;Zero 30 194;1267;6;512;64;5500;6.5;65;Yes;Android;Snapdragon 8 Gen 3;3.6;November;2025
+Xiaomi;Mi 13 Ultra 708;1229;8;64;48;5000;6.3;18;Yes;Android;A18 Pro;3.7;December;2025
+Apple;iPhone 16 Pro 772;139;4;64;50;4500;5.9;120;No;iOS;Snapdragon 6 Gen 1;4;September;2025
+Apple;iPhone 16 Pro Max 598;154;12;64;108;4000;6.4;65;Yes;iOS;Dimensity 9300;3.8;January;2025
+Realme;GT Neo 6 201;408;12;512;108;5500;6.4;65;No;Android;Snapdragon 7+ Gen 2;4.3;May;2025
+Apple;iPhone 14 583;633;4;128;12;4500;6.9;120;Yes;iOS;Snapdragon 6 Gen 1;4.1;July;2025
+Realme;C65 162;939;12;512;200;5500;6.5;100;Yes;Android;Snapdragon 7+ Gen 2;5;October;2025
+OnePlus;OnePlus 13R 705;327;6;512;108;5000;6.7;65;Yes;Android;A18 Pro;4.3;October;2025
+Apple;iPhone 14 91;853;8;512;50;4000;6.1;18;No;iOS;Snapdragon 7+ Gen 2;3.7;June;2025
+Apple;iPhone 16 Pro Max 497;436;12;1024;50;5000;5.9;18;Yes;iOS;Tensor G4;4.5;June;2025
+Google;Pixel 8 701;1373;4;256;108;4000;5.6;120;No;Android;Snapdragon 7+ Gen 2;5;November;2025
+Oppo;Reno 12 799;521;16;256;48;4000;6.1;18;No;Android;A18 Pro;3.7;December;2025
+Infinix;Zero 30 767;840;8;1024;64;4500;6.9;100;No;Android;Snapdragon 6 Gen 1;4.6;February;2025
+OnePlus;Nord 4 84;450;12;128;12;4500;5.6;18;Yes;Android;A18 Pro;3.6;December;2025
+Xiaomi;Mi 14 694;1462;12;128;200;6000;6.5;18;Yes;Android;Helio G99;4.4;August;2025
+Google;Pixel Fold 2 89;1357;4;128;50;5000;6.7;18;No;Android;Snapdragon 6 Gen 1;4.2;September;2025
+Infinix;GT 20 Pro 69;1241;8;128;108;5500;6.4;120;Yes;Android;Exynos 2400;3.6;May;2025
+Google;Pixel 7a 545;227;8;64;12;5000;5.8;44;Yes;Android;Exynos 2400;4.1;March;2025
+Infinix;GT 20 Pro 989;270;12;1024;108;4000;6.4;18;Yes;Android;Tensor G4;4.6;January;2025
+Samsung;Galaxy A75 375;1465;8;256;50;6000;5.5;44;Yes;Android;A18 Pro;4.2;July;2025
+Apple;iPhone 14 47;266;12;512;12;5500;7.2;44;No;iOS;Dimensity 9300;4.2;November;2025
+Apple;iPhone 16 Pro Max 954;1083;4;128;48;5000;5.7;120;Yes;iOS;Helio G99;3.6;May;2025
+Realme;GT Neo 6 155;835;12;128;64;4000;6.2;100;Yes;Android;Tensor G4;4.9;July;2025
+Realme;C65 457;343;12;256;64;4000;7;120;No;Android;Snapdragon 7+ Gen 2;4.5;December;2025
+Oppo;Reno 11 997;179;12;256;200;5000;5.6;120;No;Android;Dimensity 9300;4.3;January;2025
+Apple;iPhone 16 Pro Max 871;445;16;256;200;6000;5.7;65;Yes;iOS;Dimensity 9300;4.5;May;2025
+Vivo;Y200 250;1119;6;512;64;5000;7.1;100;Yes;Android;Dimensity 9300;3.7;July;2025
+Vivo;X100 Pro 645;1479;8;256;48;4000;6.6;33;Yes;Android;Tensor G4;3.8;November;2025
+Apple;iPhone 16 Pro Max 541;817;16;64;12;6000;6.9;100;Yes;iOS;Snapdragon 7+ Gen 2;4.5;May;2025
+Vivo;V30 574;510;16;1024;200;4500;6;18;No;Android;Snapdragon 6 Gen 1;4.6;August;2025
+Google;Pixel 7a 626;188;16;512;48;5500;6.3;33;Yes;Android;Tensor G4;3.8;September;2025
+OnePlus;OnePlus 13 360;1274;4;256;64;4000;5.8;120;No;Android;Snapdragon 8 Gen 3;4.2;December;2025
+Infinix;Note 40 Pro 290;777;12;512;12;4500;5.8;44;Yes;Android;Dimensity 9300;3.8;July;2025
+Samsung;Galaxy Z Fold6 150;540;16;512;200;5000;5.6;44;No;Android;Tensor G4;3.5;January;2025
+Apple;iPhone 16 Pro Max 814;1342;8;512;64;5500;7.2;120;No;iOS;Helio G99;4.4;November;2025
+Google;Pixel 9 275;1406;16;1024;200;5000;7;100;No;Android;A18 Pro;3.8;May;2025
+Vivo;X100 Pro 612;1009;6;256;50;5000;5.8;120;No;Android;Exynos 2400;4.8;January;2025
+Google;Pixel 9 345;1350;8;1024;108;5500;6.3;18;Yes;Android;Exynos 2400;4.8;June;2025
+Samsung;Galaxy Z Fold6 288;1209;8;512;12;4500;6.8;65;Yes;Android;Snapdragon 6 Gen 1;4.7;October;2025
+OnePlus;OnePlus 12 398;1405;6;512;50;4000;6.5;120;Yes;Android;Snapdragon 6 Gen 1;3.7;January;2025
+Google;Pixel 9 860;134;12;64;48;4000;6.3;18;Yes;Android;Exynos 2400;3.8;August;2025
+Samsung;Galaxy Z Fold6 135;443;6;512;48;5500;6.3;18;Yes;Android;Dimensity 9300;4.1;February;2025
+Xiaomi;Poco X6 Pro 110;787;16;1024;64;4000;5.5;65;Yes;Android;Helio G99;3.8;January;2025
+Realme;Narzo 70 537;1433;6;1024;64;4500;5.8;100;No;Android;A18 Pro;4.5;December;2025
+OnePlus;Nord 4 664;279;4;256;12;6000;7.2;44;Yes;Android;Snapdragon 6 Gen 1;3.7;January;2025
+Vivo;V30 287;307;8;256;48;6000;6.7;65;No;Android;A18 Pro;4.3;November;2025
+Vivo;V30 125;1499;6;256;108;5000;7.1;33;Yes;Android;A18 Pro;4.6;October;2025
+Vivo;X100 Pro 121;288;16;256;50;6000;6.9;33;No;Android;Dimensity 9300;3.8;July;2025
+Xiaomi;Redmi Note 14 Pro 402;1381;16;256;200;5500;5.6;65;No;Android;Dimensity 9300;5;May;2025
+Vivo;V30 220;1384;6;256;200;4500;7;100;No;Android;Exynos 2400;3.8;September;2025
+Google;Pixel 9 883;204;6;64;48;5000;6.1;18;Yes;Android;Exynos 2400;4.3;November;2025
+Vivo;V29e 885;804;4;512;64;5000;7;44;Yes;Android;Exynos 2400;4.2;January;2025
+OnePlus;Nord CE 4 Lite 508;1462;6;128;12;5000;5.8;44;Yes;Android;Snapdragon 7+ Gen 2;4;September;2025
+Oppo;F27 Pro 79;930;8;1024;64;5000;6.3;44;No;Android;A18 Pro;4.6;September;2025
+Samsung;Galaxy M55 323;573;4;1024;108;5500;5.6;120;Yes;Android;Dimensity 9300;5;March;2025
+Oppo;Reno 11 66;391;4;256;200;6000;6.3;18;Yes;Android;Tensor G4;4.2;January;2025
+Apple;iPhone 15 479;579;6;512;108;4000;6.1;120;Yes;iOS;A18 Pro;4.7;July;2025
+Apple;iPhone 16 206;1302;6;512;64;5000;7;65;Yes;iOS;Dimensity 9300;3.9;November;2025
+OnePlus;OnePlus 13 483;1269;4;64;64;6000;6.7;33;No;Android;Snapdragon 7+ Gen 2;3.5;February;2025
+Samsung;Galaxy A75 154;356;16;1024;48;5000;6.4;100;Yes;Android;Exynos 2400;4;October;2025
+Apple;iPhone 16 Pro Max 605;790;12;256;50;4000;6.5;18;Yes;iOS;A18 Pro;3.6;June;2025
+OnePlus;Nord CE 4 Lite 797;1300;12;1024;108;4500;6.6;65;Yes;Android;Dimensity 9300;3.6;May;2025
+Oppo;Reno 12 645;118;6;1024;12;5500;6.6;65;Yes;Android;Snapdragon 6 Gen 1;4.5;January;2025
+OnePlus;OnePlus 13R 59;721;6;256;12;4000;6.8;120;Yes;Android;Snapdragon 6 Gen 1;4.1;April;2025
+Xiaomi;Mi 13 Ultra 157;1008;16;64;64;5000;5.9;33;No;Android;Snapdragon 8 Gen 3;4.2;March;2025
+Xiaomi;Mi 14 499;952;12;128;200;5500;5.7;44;No;Android;A18 Pro;4;August;2025
+Xiaomi;Mi 13 Ultra 587;167;4;128;64;4000;6.8;18;No;Android;Helio G99;3.9;May;2025
+OnePlus;OnePlus 12 428;1461;4;128;64;5000;5.8;18;No;Android;Exynos 2400;3.6;February;2025
+OnePlus;OnePlus 13 348;648;8;1024;200;4500;6;120;Yes;Android;Dimensity 9300;4.9;November;2025
+Google;Pixel Fold 2 686;1100;16;128;50;5000;7.1;120;Yes;Android;Dimensity 9300;4;March;2025
+Samsung;Galaxy A75 574;1138;6;512;64;5000;6.1;44;Yes;Android;Exynos 2400;4.9;September;2025
+Oppo;Reno 12 147;1301;6;128;200;5500;6.7;44;No;Android;Snapdragon 6 Gen 1;4;August;2025
+Vivo;Y100A 555;1011;4;64;64;6000;6.8;33;Yes;Android;Dimensity 9300;3.5;November;2025
+Apple;iPhone 16 778;479;6;128;50;4000;6.8;44;No;iOS;Snapdragon 6 Gen 1;4.3;November;2025
+Realme;GT 7 Pro 357;1154;16;512;200;6000;5.9;44;Yes;Android;Snapdragon 6 Gen 1;4.2;July;2025
+Xiaomi;Mi 14 983;978;4;512;108;5500;6.1;44;No;Android;Snapdragon 7+ Gen 2;3.6;November;2025
+Infinix;GT 20 Pro 453;529;12;128;50;4500;6;120;No;Android;Snapdragon 7+ Gen 2;3.6;August;2025
+OnePlus;Nord CE 4 Lite 292;628;8;128;48;6000;5.8;65;Yes;Android;Helio G99;4.1;April;2025
+OnePlus;OnePlus 13 149;679;6;128;64;5500;6.3;120;No;Android;Exynos 2400;3.6;February;2025
+Xiaomi;Poco X6 Pro 966;1374;12;1024;108;5000;5.9;44;Yes;Android;Dimensity 9300;3.6;March;2025
+Infinix;Note 40 Pro 711;1186;8;128;200;5000;7.2;120;Yes;Android;Exynos 2400;4.3;August;2025
+Infinix;Smart 8 800;885;16;64;48;4000;7.2;18;Yes;Android;Snapdragon 7+ Gen 2;4.4;December;2025
+Samsung;Galaxy Z Fold6 820;661;6;256;50;5000;6.1;120;No;Android;Snapdragon 8 Gen 3;4.1;October;2025
+OnePlus;Nord CE 4 Lite 501;1302;8;512;200;4000;6.6;100;Yes;Android;Snapdragon 7+ Gen 2;4.5;August;2025
+Samsung;Galaxy A75 186;645;6;64;12;4000;6.8;44;No;Android;Snapdragon 6 Gen 1;4.8;October;2025
+Infinix;Zero 30 125;465;12;128;50;5000;6.5;18;Yes;Android;Exynos 2400;3.9;February;2025
+Xiaomi;Redmi Note 14 Pro 177;648;16;1024;108;4500;6.4;33;Yes;Android;Exynos 2400;4.7;February;2025
+Samsung;Galaxy A75 612;1249;8;256;50;5000;6.2;33;No;Android;Snapdragon 6 Gen 1;4.5;December;2025
+Realme;C65 725;410;8;64;12;5500;5.9;18;No;Android;Exynos 2400;4.7;August;2025
+Google;Pixel 9 284;604;4;64;12;5500;7.1;33;No;Android;A18 Pro;3.5;March;2025
+Apple;iPhone 15 557;1316;6;512;12;4000;6.6;44;Yes;iOS;Exynos 2400;4;July;2025
+OnePlus;OnePlus 12 621;1425;4;1024;108;4500;6.5;18;No;Android;Tensor G4;3.7;September;2025
+Xiaomi;Poco F6 895;112;12;64;50;6000;6;120;No;Android;Snapdragon 6 Gen 1;3.7;September;2025
+Realme;Narzo 70 954;1111;6;256;108;5500;6.4;65;Yes;Android;Dimensity 9300;3.6;September;2025
+Infinix;Smart 8 220;1221;12;512;12;5500;5.9;120;Yes;Android;Snapdragon 8 Gen 3;5;August;2025
+Realme;Narzo 70 580;292;6;64;48;5000;6.1;100;No;Android;Tensor G4;4.2;February;2025
+Google;Pixel 9 Pro 260;788;4;128;108;6000;5.8;65;Yes;Android;Tensor G4;3.6;February;2025
+Xiaomi;Mi 13 Ultra 225;1067;12;512;50;5000;7;100;No;Android;Snapdragon 7+ Gen 2;4;June;2025
+Oppo;A98 206;1249;16;1024;108;6000;6.1;120;Yes;Android;Helio G99;4.4;August;2025
+Apple;iPhone 16 Pro Max 437;918;8;1024;64;4500;6.7;120;No;iOS;Dimensity 9300;4.3;October;2025
+OnePlus;OnePlus 13 143;523;12;512;50;6000;6.9;100;Yes;Android;Helio G99;4.4;November;2025
+Realme;Narzo 70 23;1078;16;128;64;4500;6.6;65;Yes;Android;Snapdragon 6 Gen 1;3.9;March;2025
+Vivo;X100 Pro 979;857;12;64;64;5000;7;120;No;Android;Exynos 2400;5;September;2025
+Vivo;V29e 990;1118;6;64;200;4000;5.6;65;No;Android;Tensor G4;4.3;June;2025
+Oppo;Reno 12 161;1124;12;128;200;5000;6.7;100;Yes;Android;Helio G99;4.7;November;2025
+Apple;iPhone 14 434;1127;12;64;108;5000;5.9;44;No;iOS;Dimensity 9300;4.4;April;2025
+Google;Pixel Fold 2 987;883;4;64;12;6000;6.1;44;No;Android;Dimensity 9300;4.4;July;2025
+Samsung;Galaxy Z Fold6 736;391;4;1024;64;5000;6.9;120;No;Android;Snapdragon 8 Gen 3;3.7;December;2025
+Apple;iPhone 15 551;1286;16;256;64;6000;6.4;18;No;iOS;Exynos 2400;4.5;March;2025
+Vivo;V30 326;1429;4;256;50;6000;6.7;65;No;Android;Snapdragon 8 Gen 3;3.6;July;2025
+Google;Pixel 9 256;825;12;64;12;4500;6.3;18;No;Android;Exynos 2400;3.9;December;2025
+Realme;C65 395;246;12;512;200;6000;6.1;18;No;Android;Helio G99;3.9;April;2025
+Infinix;Zero 30 132;646;16;128;64;6000;6.5;100;Yes;Android;Helio G99;4.4;November;2025
+OnePlus;OnePlus 13R 328;609;8;64;108;6000;6.2;44;No;Android;Snapdragon 7+ Gen 2;5;February;2025
+Infinix;Smart 8 910;515;6;256;64;6000;5.9;33;Yes;Android;Snapdragon 8 Gen 3;3.6;June;2025
+Xiaomi;Poco F6 251;1150;6;512;48;5500;6.5;44;Yes;Android;Snapdragon 8 Gen 3;4.2;March;2025
+Oppo;Reno 12 692;718;16;64;64;6000;5.6;44;Yes;Android;Dimensity 9300;4;December;2025
+Xiaomi;Mi 14 946;670;12;1024;48;5500;5.7;33;Yes;Android;Dimensity 9300;4.9;March;2025
+Oppo;Find X7 383;581;16;512;108;4000;6;18;Yes;Android;Exynos 2400;4.1;January;2025
+OnePlus;OnePlus 13 209;135;8;128;48;4000;6.9;18;No;Android;Snapdragon 8 Gen 3;3.9;July;2025
+Realme;Narzo 70 415;1385;4;64;64;5000;6.8;100;Yes;Android;Snapdragon 7+ Gen 2;4.9;August;2025
+Google;Pixel Fold 2 264;316;8;1024;64;6000;6.4;44;Yes;Android;A18 Pro;4.9;May;2025
+Samsung;Galaxy A75 416;304;6;256;108;4500;6.9;33;Yes;Android;Snapdragon 6 Gen 1;5;July;2025
+Google;Pixel 9 Pro 529;890;16;512;108;5000;6.2;33;Yes;Android;Exynos 2400;4.9;April;2025
+OnePlus;OnePlus 13R 119;845;12;256;64;4000;6.7;65;No;Android;Helio G99;3.7;June;2025
+Google;Pixel 7a 437;429;16;1024;200;4000;5.8;44;No;Android;Helio G99;3.7;October;2025
+Xiaomi;Poco F6 937;835;12;256;48;4000;7;100;Yes;Android;Snapdragon 8 Gen 3;4.2;June;2025
+Samsung;Galaxy M55 406;886;16;256;64;6000;7.1;44;No;Android;Snapdragon 8 Gen 3;4.8;June;2025
+OnePlus;Nord 4 438;270;8;1024;64;5000;5.7;100;No;Android;Dimensity 9300;4.8;July;2025
+Xiaomi;Redmi Note 14 Pro 872;247;8;256;64;5500;6.2;120;No;Android;Tensor G4;4.3;January;2025
+Oppo;A98 972;1348;16;128;12;5500;6.1;33;Yes;Android;Snapdragon 7+ Gen 2;3.5;February;2025
+Infinix;GT 20 Pro 727;1116;12;64;200;5000;7.1;33;No;Android;Dimensity 9300;4.8;March;2025
+Oppo;A98 853;1004;6;512;12;4500;6;65;No;Android;Exynos 2400;4.6;February;2025
+Infinix;Smart 8 842;689;16;128;64;6000;5.6;44;Yes;Android;Dimensity 9300;3.8;August;2025
+Infinix;Smart 8 808;1007;12;256;12;4500;6.6;65;Yes;Android;Tensor G4;4;June;2025
+Google;Pixel 7a 323;1068;16;64;48;5500;6.5;33;Yes;Android;Helio G99;4;October;2025
+Vivo;X100 Pro 296;271;8;128;108;6000;6.9;65;Yes;Android;Tensor G4;4.2;August;2025
+Xiaomi;Redmi Note 14 Pro 291;560;6;1024;50;6000;6.9;33;No;Android;Tensor G4;3.8;April;2025
+Apple;iPhone 16 Pro 121;731;16;64;64;5500;6.8;100;No;iOS;Exynos 2400;4.6;May;2025
+Oppo;Reno 12 338;1083;4;128;50;4000;5.7;18;Yes;Android;Helio G99;4.4;January;2025
+Infinix;Note 40 Pro 443;1292;6;64;108;5000;6.6;120;Yes;Android;Tensor G4;4.1;December;2025
+Vivo;Y200 619;231;16;1024;48;5000;5.9;100;No;Android;Snapdragon 7+ Gen 2;4.1;January;2025
+Samsung;Galaxy S24 591;1045;12;256;48;4500;5.5;33;Yes;Android;Dimensity 9300;4;August;2025
+Samsung;Galaxy A75 788;986;16;64;108;4000;5.9;33;No;Android;A18 Pro;3.9;January;2025
+Vivo;V29e 299;1267;4;512;108;5000;6.7;18;No;Android;Dimensity 9300;4.7;September;2025
+Oppo;F27 Pro 353;135;8;256;50;5500;6.7;44;No;Android;Tensor G4;4.2;July;2025
+Infinix;GT 20 Pro 782;724;16;256;50;4000;7.1;44;No;Android;Snapdragon 7+ Gen 2;3.9;June;2025
+Vivo;V29e 883;344;12;1024;108;4500;7.2;33;Yes;Android;Tensor G4;3.7;December;2025
+Infinix;Hot 40 460;1367;16;64;12;4000;5.9;120;No;Android;Snapdragon 6 Gen 1;4.1;September;2025
+Apple;iPhone 14 260;275;16;256;12;6000;7.1;18;No;iOS;Helio G99;4.1;July;2025
+Xiaomi;Poco X6 Pro 832;1140;16;1024;64;4500;6.6;120;Yes;Android;Snapdragon 8 Gen 3;4.1;April;2025
+Oppo;Find X7 49;410;8;1024;64;5000;6.7;18;Yes;Android;Exynos 2400;4.3;August;2025
+OnePlus;Nord CE 4 Lite 973;1375;4;256;200;6000;7;18;No;Android;Helio G99;4.6;February;2025
+Google;Pixel 9 577;1149;16;1024;48;4000;5.9;44;Yes;Android;Snapdragon 8 Gen 3;4.5;May;2025
+Samsung;Galaxy A75 860;1360;16;1024;48;5500;6;44;Yes;Android;Snapdragon 6 Gen 1;4.4;October;2025
+Infinix;GT 20 Pro 9;189;12;1024;48;4500;6.5;33;Yes;Android;Snapdragon 8 Gen 3;3.8;October;2025
+Google;Pixel 9 603;607;12;64;200;4500;7.1;44;No;Android;Dimensity 9300;4.4;January;2025
+OnePlus;Nord CE 4 Lite 458;440;16;512;108;5000;5.6;44;No;Android;Tensor G4;4.3;June;2025
+Vivo;X100 Pro 840;732;6;64;50;6000;7.1;65;Yes;Android;Dimensity 9300;4.9;August;2025
+Infinix;Note 40 Pro 855;508;6;64;108;6000;5.9;33;No;Android;Snapdragon 7+ Gen 2;4.4;September;2025
+OnePlus;OnePlus 12 326;163;16;256;200;6000;6.2;33;Yes;Android;Dimensity 9300;4.1;October;2025
+Infinix;Zero 30 376;413;8;64;48;4500;6.5;33;Yes;Android;Exynos 2400;3.6;June;2025
+Google;Pixel 8 692;789;16;512;12;5000;5.9;44;Yes;Android;Snapdragon 8 Gen 3;4.1;September;2025
+Vivo;Y100A 116;181;12;512;108;4000;6.7;120;Yes;Android;A18 Pro;3.9;February;2025
+Samsung;Galaxy S24 567;179;4;1024;64;5000;5.6;44;No;Android;Dimensity 9300;5;February;2025
+OnePlus;OnePlus 13R 465;1356;16;256;64;6000;7;44;No;Android;Snapdragon 7+ Gen 2;3.8;August;2025
+Realme;GT 7 Pro 771;951;16;256;200;5000;6.1;33;No;Android;Snapdragon 6 Gen 1;4;February;2025
+Realme;GT Neo 6 451;957;6;64;200;5500;7;33;No;Android;Exynos 2400;4;May;2025
+Samsung;Galaxy A75 963;1171;12;256;64;5500;5.6;120;No;Android;Dimensity 9300;3.9;April;2025
+Apple;iPhone 16 Pro 19;442;6;256;108;5500;5.8;33;No;iOS;Tensor G4;4.9;April;2025
+Vivo;V29e 165;1235;12;64;108;6000;7.1;33;Yes;Android;Snapdragon 8 Gen 3;3.6;December;2025
+Samsung;Galaxy S24 981;355;8;512;200;4000;6.4;33;No;Android;Snapdragon 7+ Gen 2;3.6;February;2025
+Oppo;Reno 12 350;118;6;512;108;4500;5.5;120;No;Android;Snapdragon 6 Gen 1;5;August;2025
+OnePlus;OnePlus 13R 635;147;6;1024;200;4500;6.5;120;Yes;Android;Tensor G4;4.4;June;2025
+Infinix;Hot 40 838;1111;4;128;64;4500;6.3;33;No;Android;Helio G99;4.7;May;2025
+Xiaomi;Mi 14 163;1039;8;256;50;6000;6;18;Yes;Android;Dimensity 9300;4.6;December;2025
+OnePlus;OnePlus 12 46;610;8;512;48;4500;5.6;18;Yes;Android;Dimensity 9300;3.9;October;2025
+Apple;iPhone 16 Pro 356;259;12;1024;64;5500;5.6;44;Yes;iOS;Dimensity 9300;4.4;June;2025
+Google;Pixel 7a 477;528;12;256;64;5000;6.8;33;Yes;Android;Dimensity 9300;3.9;March;2025
+Samsung;Galaxy S24 Ultra 883;769;16;512;200;5500;6.7;100;No;Android;Tensor G4;4.2;January;2025
+Xiaomi;Mi 14 806;1399;6;128;50;4500;5.9;120;Yes;Android;Snapdragon 6 Gen 1;4.9;July;2025
+Apple;iPhone 16 Pro 225;1441;16;128;200;4000;7;65;No;iOS;Snapdragon 8 Gen 3;4.4;October;2025
+Oppo;Reno 12 524;1432;8;1024;50;5000;6.3;18;No;Android;Exynos 2400;3.7;June;2025
+Vivo;Y200 242;128;4;512;48;5000;5.6;18;Yes;Android;Helio G99;3.8;August;2025
+Realme;Narzo 70 24;1106;16;64;200;5500;6.1;44;No;Android;Tensor G4;4.8;June;2025
+Google;Pixel Fold 2 221;662;12;128;64;4500;6.6;120;Yes;Android;Dimensity 9300;3.9;September;2025
+Oppo;A98 49;1492;12;1024;48;6000;6.7;100;No;Android;Snapdragon 7+ Gen 2;4.4;July;2025
+Realme;11 Pro+ 950;1003;6;64;12;5500;6.1;65;Yes;Android;Helio G99;4;March;2025
+Realme;GT 7 Pro 549;1154;12;1024;64;6000;5.7;18;Yes;Android;Tensor G4;4.9;September;2025
+Google;Pixel 7a 974;515;8;1024;12;4000;6;18;No;Android;A18 Pro;3.6;July;2025
+Oppo;A98 391;627;6;512;64;4000;5.6;18;No;Android;Dimensity 9300;4.1;August;2025
+Xiaomi;Poco X6 Pro 289;450;16;1024;50;5000;6.6;44;Yes;Android;Snapdragon 6 Gen 1;4.3;June;2025
+Google;Pixel 7a 412;1107;8;256;108;6000;6;65;Yes;Android;Snapdragon 6 Gen 1;4;November;2025
+Vivo;X100 Pro 880;1160;8;256;200;5000;5.5;44;No;Android;A18 Pro;5;February;2025
+Vivo;X100 Pro 978;818;8;256;64;5000;5.9;18;No;Android;Snapdragon 7+ Gen 2;4.3;April;2025
+Xiaomi;Redmi Note 14 Pro 380;152;4;1024;12;4500;6.2;18;Yes;Android;Helio G99;3.9;May;2025
+Vivo;V30 873;1161;6;1024;50;6000;6.7;65;Yes;Android;A18 Pro;3.9;May;2025
+Realme;11 Pro+ 720;423;12;256;48;4000;6.5;44;Yes;Android;Snapdragon 6 Gen 1;4.6;June;2025
+Oppo;Find X7 117;1131;8;1024;200;5500;6.6;65;Yes;Android;Snapdragon 7+ Gen 2;4;December;2025
+Google;Pixel 9 485;718;4;64;50;4000;7.1;100;No;Android;Dimensity 9300;4.5;September;2025
+Xiaomi;Poco F6 806;154;16;128;48;4000;6.8;120;Yes;Android;Helio G99;4.3;September;2025
+Oppo;F27 Pro 368;717;4;256;64;4000;6;65;Yes;Android;Snapdragon 6 Gen 1;3.9;June;2025
+OnePlus;Nord CE 4 Lite 367;727;6;1024;108;4500;6.3;100;Yes;Android;Helio G99;3.9;October;2025
+Samsung;Galaxy Z Fold6 193;656;8;64;108;5000;5.7;33;No;Android;Tensor G4;4;February;2025
+Xiaomi;Poco X6 Pro 71;633;4;64;200;5000;7.1;100;No;Android;Dimensity 9300;3.9;April;2025
+Samsung;Galaxy S24 24;894;12;128;48;5500;6.9;100;No;Android;A18 Pro;4.8;September;2025
+Vivo;X100 Pro 206;246;16;128;50;4000;5.9;100;No;Android;Helio G99;4.4;March;2025
+Infinix;Hot 40 854;768;12;1024;12;4500;6.2;44;Yes;Android;Snapdragon 6 Gen 1;4.2;May;2025
+Realme;11 Pro+ 671;437;8;256;50;4000;6.9;33;Yes;Android;A18 Pro;4.7;November;2025
+OnePlus;Nord CE 4 Lite 296;429;4;512;48;4000;5.9;100;No;Android;Dimensity 9300;4;December;2025
+Vivo;X100 Pro 409;1069;6;1024;50;5500;6.7;44;Yes;Android;Snapdragon 8 Gen 3;4.5;January;2025
+Google;Pixel 7a 275;799;12;512;108;5500;7;120;No;Android;Dimensity 9300;4.9;April;2025
+Apple;iPhone 16 Pro Max 533;1467;8;1024;64;5500;6.8;65;Yes;iOS;Dimensity 9300;3.7;July;2025
+Realme;C65 602;1211;6;64;50;5000;6.2;18;Yes;Android;Helio G99;5;September;2025
+Apple;iPhone 16 Pro 99;993;4;128;64;5000;5.8;65;Yes;iOS;Dimensity 9300;4.6;September;2025
+Vivo;X100 Pro 47;1455;16;512;108;5000;5.9;100;No;Android;Dimensity 9300;4.7;July;2025
+Xiaomi;Poco X6 Pro 526;471;8;1024;50;5500;7.1;18;Yes;Android;Snapdragon 6 Gen 1;3.6;August;2025
+Realme;GT Neo 6 598;221;8;64;50;5500;5.5;44;Yes;Android;Tensor G4;4.4;December;2025
+Oppo;Reno 12 666;435;12;1024;48;4000;5.9;33;No;Android;Tensor G4;3.7;January;2025
+Apple;iPhone 14 59;1386;8;256;200;4000;5.6;65;Yes;iOS;Helio G99;3.9;September;2025
+Vivo;Y200 640;674;8;128;48;4000;5.7;18;No;Android;Tensor G4;4.5;August;2025
+Vivo;V30 843;389;16;512;200;4500;6.2;44;No;Android;Snapdragon 8 Gen 3;4.8;May;2025
+Vivo;V30 425;537;16;256;50;4500;6.7;33;Yes;Android;Exynos 2400;4.8;November;2025
+Xiaomi;Mi 13 Ultra 876;171;12;64;48;5000;5.8;120;Yes;Android;Snapdragon 7+ Gen 2;4.8;August;2025
+Infinix;Zero 30 20;1222;8;1024;48;4000;6.4;120;Yes;Android;Snapdragon 6 Gen 1;5;October;2025
+Oppo;A98 649;350;16;1024;12;6000;5.7;120;No;Android;Snapdragon 7+ Gen 2;4.2;December;2025
+Realme;Narzo 70 661;1034;12;512;64;5000;7;18;No;Android;Dimensity 9300;3.8;October;2025
+OnePlus;Nord 4 530;1022;6;1024;48;4500;5.9;33;No;Android;Snapdragon 6 Gen 1;4.3;January;2025
+Xiaomi;Poco F6 680;439;4;64;12;6000;6;120;Yes;Android;Helio G99;5;November;2025
+Google;Pixel 9 523;202;16;256;64;5000;6;33;No;Android;Helio G99;4;April;2025
+Xiaomi;Poco F6 856;909;6;256;108;4000;6.7;44;Yes;Android;Tensor G4;3.6;March;2025
+Infinix;Smart 8 114;1100;16;64;64;4500;6.1;100;Yes;Android;A18 Pro;3.6;August;2025
+Google;Pixel 9 814;373;4;256;12;4500;6.2;44;Yes;Android;Dimensity 9300;3.9;October;2025
+Vivo;Y200 568;1328;16;256;12;6000;5.7;18;No;Android;Snapdragon 8 Gen 3;4.2;April;2025
+Infinix;Smart 8 784;1170;16;64;50;5500;6.6;120;Yes;Android;Dimensity 9300;3.8;April;2025
+Google;Pixel 9 228;726;16;64;48;5500;6.6;44;No;Android;Snapdragon 8 Gen 3;3.8;November;2025
+Samsung;Galaxy S24 Ultra 502;1368;16;64;50;5500;5.6;120;No;Android;Snapdragon 6 Gen 1;4.9;September;2025
+OnePlus;OnePlus 13 975;1187;6;128;48;4500;5.6;100;No;Android;Exynos 2400;4.4;April;2025
+OnePlus;Nord 4 277;850;8;64;108;4500;6.4;33;Yes;Android;A18 Pro;4.8;June;2025
+Realme;C65 704;532;6;128;12;4000;6.3;120;Yes;Android;A18 Pro;4.7;April;2025
+Google;Pixel Fold 2 610;1224;12;64;48;5000;6;33;No;Android;Snapdragon 8 Gen 3;4.3;September;2025
+Realme;11 Pro+ 634;629;16;1024;12;4000;6.8;65;No;Android;Dimensity 9300;4.9;May;2025
+Google;Pixel 8 175;1164;8;128;12;5500;5.9;44;No;Android;Tensor G4;3.8;November;2025
+Oppo;Reno 11 777;178;6;1024;50;5000;6.3;120;Yes;Android;A18 Pro;4.4;January;2025
+Realme;11 Pro+ 927;110;6;512;50;5500;5.7;33;Yes;Android;Snapdragon 8 Gen 3;4.1;August;2025
+Google;Pixel 7a 2;961;8;256;12;4000;5.9;44;Yes;Android;Helio G99;4;November;2025
+OnePlus;OnePlus 13R 423;158;16;64;64;5500;5.6;65;Yes;Android;Dimensity 9300;3.5;November;2025
+Xiaomi;Poco X6 Pro 796;1164;6;128;200;4500;5.7;120;No;Android;Helio G99;4.8;January;2025
+Realme;Narzo 70 809;895;8;64;48;5000;7;65;No;Android;A18 Pro;4.6;August;2025
+Xiaomi;Mi 13 Ultra 429;458;16;512;64;4500;5.8;18;No;Android;A18 Pro;3.9;July;2025
