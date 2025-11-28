@@ -1,6 +1,6 @@
 # 📊 Projeto de Análise de Preços Globais de Smartphones - 2025
 
-## Resumo do Projeto
+## 📌 Resumo do Projeto
 Este projeto realiza uma **análise exploratória de dados (EDA)** com base em um<br>
 conjunto de dados fictício contendo informações sobre smartphones vendidos<br>
 globalmente em 2025.<br>
