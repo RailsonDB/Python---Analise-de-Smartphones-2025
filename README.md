@@ -32,7 +32,7 @@ O dataset contém **1000** registros e **15** colunas, incluindo:
 
 
 ## 🛠️ Tecnologias Utilizadas
-- **Python**
+- **Python 3.11.9**
 - **Pandas** - manipulação de daods
 - **Matplolib** - visualização de dados
 
