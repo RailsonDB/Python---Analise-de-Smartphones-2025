@@ -8,9 +8,10 @@ A base utilizada é um arquivo *.csv* disponível no **kaggle**, contendo dados 
 marca, modelo, preço, hardware e avaliações dos dispositivos.
 
 ## ✅ Objetivo do Projeto
-Este projeto foi desenvolvido com o objetvo de praticar **análise de dados**, manipulação<br>
-de DataFrames, criação de visualizações e responder perguntas de negócios<br>
-com base nesse conjunto de dados. 
+Este projeto foi desenvolvido com o objetvo de praticar **análise de dados**, **manipulação<br>
+de DataFrames**, **Análises Exploratórias** e **criação de visualizações** para responder<br>
+perguntas de negócios.<br>
+ 
 
 ## 🗂️ Sobre o Conjunto de Dados
 O dataset contém **1000** registros e **15** colunas, incluindo:
