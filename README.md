@@ -9,7 +9,7 @@ marca, modelo, preço, hardware e avaliações dos dispositivos.
 
 ## ✅ Objetivo do Projeto
 Este projeto foi desenvolvido com o objetvo de praticar **análise de dados**, **manipulação<br>
-de DataFrames**, **Análises Exploratórias** e **criação de visualizações** para responder<br>
+de DataFrames**, **análises exploratórias** e **criação de visualizações** para responder<br>
 perguntas de negócios.<br>
  
 
