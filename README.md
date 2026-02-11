@@ -58,6 +58,9 @@ Foram criados gráficos como:
 - Gráfico de lançamento por mês
 
 
-
-
+## Insighs Encontrados
+- Android domina o mercado
+- Marcas com Samsung e Realme se destacam
+- Modelos com 5G lidera em volume
+- Preço médio não necessariamente define melhor avaliação
 
