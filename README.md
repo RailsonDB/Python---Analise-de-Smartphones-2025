@@ -67,20 +67,61 @@ Durante a análise, foram exploradas as seguintes questões:
 - Insight:
   Vivo, Google e OnePlus apresentam maior volume de modelos registrados.
 
+### 📌 Avaliação Média por Modelo e Marca
+- Cálculo da média de avaliações por modelo e por marca.
+
+- Insight:
+  Samsung e Realme apresentam as maiores médias de avaliação entre as marcas
+
+### 📌 Avaliações Negativas
+- Foram consideradas negativas as avaliações ≤3.9.
+
+- Insight:
+  Não houve concentração significativa de avaliações negativas em modelos específicos.
+
+### 📌 Sistema Operacional
+- Análise da distribuição percentual por sistema operacional.
+
+- Insight:
+  Android representa aproximadamente 89% dos dispositivos do dataset, indicando forte<br>
+  concentração de mercado no exossistema Android.
+
+### 📌 Faturamento Mensal
+- Cálculo do faturamento total por mês com base na soma de price_usd.
+
+- Insight:
+  Abril apresentou o maior faturamento no período analisado.
+
+### 📌 Volume de Lançamentos
+- Análise de quantidade lançamentos por mês.
+
+- Insight:
+  Abril também foi o mês com maior número de lançamentos.
+
+### 📌 Análise de Suporte ao 5G
+- Comparação entre dispositivos com e sem suporte ao 5G.
+
+- Rsultados:
+  - Modelos com 5G representam 503 registros
+  - Modelos sem 5G representam 497 registros
+  - Diferença pequena no preço médio
+  - Avaliação média semelhante entre os grupos
+- Insigth:
+  O suporte ao 5G não demonstrou impacto significativo na avaliação média, mas está<br>
+  fortemente presente no volume de modelos lançados.
 
 
-
-## 📈 Visualizações Gráficas
-Foram criados gráficos como:
-- Gráficos de barras com a quantidade de aparelhos por marca
-- Gráfico de pizza com distribuição dos sistemas operacionais
-- Gráfico de linha com faturamento mensal
-- Gráfico de lançamento por mês
+## 📈 Visualizações Desenvolvidas
+- Gráficos de barras - quantidade de modelos por marca
+- Gráfico de pizza - distribuição de sistemas operacionais
+- Gráfico de linha - faturamento mensal
+- Gráfico de barras - lançamentos por mês
 
 
-## Insighs Encontrados
-- Android domina o mercado
-- Marcas com Samsung e Realme se destacam
-- Modelos com 5G lidera em volume
-- Preço médio não necessariamente define melhor avaliação
+## 🧠 Conclusões Estratégicas
+- O mercado apresenta forte concentração no sistema Android
+- Marcas como Samsung e Realme se destacam em avaliação média
+- O preço não demonstrou relação direta com melhor avaliação
+- O suporte ao 5G está amplamente distribuído, mas não impacta significativamente a<br>
+  percepção de qualidade
 
