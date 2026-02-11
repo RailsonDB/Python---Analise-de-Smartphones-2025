@@ -37,8 +37,9 @@ análise estatítica descritiva e visualizações gráficas.
 - rating
 - release_month
 - year
-## Após validação, foi confirmado que os tipos de dados estvam corretos e a base<br>
-## estava íntegra para análise.
+
+Após validação, foi confirmado que os tipos de dados estvam corretos e a base<br>
+estava íntegra para análise.
 
 
 ## 🛠️ Tecnologias Utilizadas
