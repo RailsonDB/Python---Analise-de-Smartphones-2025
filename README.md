@@ -61,7 +61,7 @@ Durante a análise, foram exploradas as seguintes questões:
 
 
 ## 📊 Principais Análises Realizadas
-📌 ### Participação por Marca
+### 📌 Participação por Marca
 - Identificação da frequência de cada marca no conjunto de dados.
 
 - Insight:
