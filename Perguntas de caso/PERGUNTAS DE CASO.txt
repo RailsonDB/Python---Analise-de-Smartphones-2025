@@ -1,20 +1,20 @@
 PERGUNTAS DE CASO:
 
 
-Quais são as diferentes tipos de marcas que temos no nosso conjunto de dados e quantas vezes cada marca apareceu? 
+Quais marcas apareceram com maior frequência?
 
-Quais foram os 3 modelos e marcas de celulares mais bem avaliados?
+Quais foram os 3 modelos e marcas mais bem avaliados?
 
-E os 3 modelos e marcas menos avaliados? 
+Quais são os 3 menos bem avaliados? 
 
 Quantas avaliações negativas cada modelo recebeu?
 
 Qual sistema operacional é mais utilizado?
 
-Distribuição Percentual por Sistema Operacional
+Qual sistema operacional é mais utilizado?
 
-Qual foi o Faturamento Total em cada Mês? 
+Qual foi o Faturamento Total por Mês? 
 
-Quantidade de Lançamento por Mês
+Quantos celulares foram lançados por mês?
 
-Análise de Suporte ao 5G
+O suporte ao 5G impacta preço e avaliação?
