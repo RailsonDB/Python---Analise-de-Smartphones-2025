@@ -1,4 +1,4 @@
-# 📊 Projeto de Preços Globais de Smartphones - 2025
+# 📊 Análise de Preços Globais de Smartphones - 2025
 
 ## 📌 Contexto
 Este projeto realiza uma análise exploratória de dados (EDA) a partir de um dataset.<br>
